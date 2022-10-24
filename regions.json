@@ -1,0 +1,70 @@
+[
+    {
+        "id": "15",
+        "name": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)"
+    },
+    {
+        "id": "14",
+        "name": "CORDILLERA ADMINISTRATIVE REGION (CAR)"
+    },
+    {
+        "id": "13",
+        "name": "NATIONAL CAPITAL REGION (NCR)"
+    },
+    {
+        "id": "01",
+        "name": "REGION I (ILOCOS REGION)"
+    },
+    {
+        "id": "02",
+        "name": "REGION II (CAGAYAN VALLEY)"
+    },
+    {
+        "id": "03",
+        "name": "REGION III (CENTRAL LUZON)"
+    },
+    {
+        "id": "04",
+        "name": "REGION IV-A (CALABARZON)"
+    },
+    {
+        "id": "17",
+        "name": "REGION IV-B (MIMAROPA)"
+    },
+    {
+        "id": "09",
+        "name": "REGION IX (ZAMBOANGA PENINSULA)"
+    },
+    {
+        "id": "05",
+        "name": "REGION V (BICOL REGION)"
+    },
+    {
+        "id": "06",
+        "name": "REGION VI (WESTERN VISAYAS)"
+    },
+    {
+        "id": "07",
+        "name": "REGION VII (CENTRAL VISAYAS)"
+    },
+    {
+        "id": "08",
+        "name": "REGION VIII (EASTERN VISAYAS)"
+    },
+    {
+        "id": "10",
+        "name": "REGION X (NORTHERN MINDANAO)"
+    },
+    {
+        "id": "11",
+        "name": "REGION XI (DAVAO REGION)"
+    },
+    {
+        "id": "12",
+        "name": "REGION XII (SOCCSKSARGEN)"
+    },
+    {
+        "id": "16",
+        "name": "REGION XIII (Caraga)"
+    }
+]

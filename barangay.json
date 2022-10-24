@@ -1,0 +1,7002 @@
+[
+    {
+        "id": "060406024",
+        "name": " ",
+        "region_code": "06",
+        "province_code": "0604",
+        "city_code": "060406"
+    },
+    {
+        "id": "104210051",
+        "name": "50th District (Pob.)",
+        "region_code": "10",
+        "province_code": "1042",
+        "city_code": "104210"
+    },
+    {
+        "id": "082622001",
+        "name": "A-et",
+        "region_code": "08",
+        "province_code": "0826",
+        "city_code": "082622"
+    },
+    {
+        "id": "160205003",
+        "name": "A. Beltran (Camalig)",
+        "region_code": "16",
+        "province_code": "1602",
+        "city_code": "160205"
+    },
+    {
+        "id": "083735001",
+        "name": "A. Bonifacio",
+        "region_code": "08",
+        "province_code": "0837",
+        "city_code": "083735"
+    },
+    {
+        "id": "056203001",
+        "name": "A. Bonifacio",
+        "region_code": "05",
+        "province_code": "0562",
+        "city_code": "056203"
+    },
+    {
+        "id": "034915001",
+        "name": "A. Bonifacio",
+        "region_code": "03",
+        "province_code": "0349",
+        "city_code": "034915"
+    },
+    {
+        "id": "141102125",
+        "name": "A. Bonifacio-Caguioa-Rimando (ABCR)",
+        "region_code": "14",
+        "province_code": "1411",
+        "city_code": "141102"
+    },
+    {
+        "id": "042107001",
+        "name": "A. Dalusag",
+        "region_code": "04",
+        "province_code": "0421",
+        "city_code": "042107"
+    },
+    {
+        "id": "045618001",
+        "name": "A. Mabini",
+        "region_code": "04",
+        "province_code": "0456",
+        "city_code": "045618"
+    },
+    {
+        "id": "112315001",
+        "name": "A. O. Floirendo",
+        "region_code": "11",
+        "province_code": "1123",
+        "city_code": "112315"
+    },
+    {
+        "id": "034926001",
+        "name": "A. Pascual",
+        "region_code": "03",
+        "province_code": "0349",
+        "city_code": "034926"
+    },
+    {
+        "id": "030805001",
+        "name": "A. Rivera (Pob.)",
+        "region_code": "03",
+        "province_code": "0308",
+        "city_code": "030805"
+    },
+    {
+        "id": "012818001",
+        "name": "Ab-abut",
+        "region_code": "01",
+        "province_code": "0128",
+        "city_code": "012818"
+    },
+    {
+        "id": "143201001",
+        "name": "Ababa-an",
+        "region_code": "14",
+        "province_code": "1432",
+        "city_code": "143201"
+    },
+    {
+        "id": "064507001",
+        "name": "Abaca",
+        "region_code": "06",
+        "province_code": "0645",
+        "city_code": "064507"
+    },
+    {
+        "id": "063039001",
+        "name": "Abaca",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063039"
+    },
+    {
+        "id": "071231001",
+        "name": "Abaca",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071231"
+    },
+    {
+        "id": "083717001",
+        "name": "Abaca",
+        "region_code": "08",
+        "province_code": "0837",
+        "city_code": "083717"
+    },
+    {
+        "id": "012804001",
+        "name": "Abaca",
+        "region_code": "01",
+        "province_code": "0128",
+        "city_code": "012804"
+    },
+    {
+        "id": "025008001",
+        "name": "Abaca",
+        "region_code": "02",
+        "province_code": "0250",
+        "city_code": "025008"
+    },
+    {
+        "id": "060607001",
+        "name": "Abaca",
+        "region_code": "06",
+        "province_code": "0606",
+        "city_code": "060607"
+    },
+    {
+        "id": "054105001",
+        "name": "Abaca",
+        "region_code": "05",
+        "province_code": "0541",
+        "city_code": "054105"
+    },
+    {
+        "id": "012929001",
+        "name": "Abaccan",
+        "region_code": "01",
+        "province_code": "0129",
+        "city_code": "012929"
+    },
+    {
+        "id": "071240001",
+        "name": "Abachanan",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071240"
+    },
+    {
+        "id": "071231002",
+        "name": "Abad Santos",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071231"
+    },
+    {
+        "id": "166721001",
+        "name": "Abad Santos",
+        "region_code": "16",
+        "province_code": "1667",
+        "city_code": "166721"
+    },
+    {
+        "id": "056203002",
+        "name": "Abad Santos",
+        "region_code": "05",
+        "province_code": "0562",
+        "city_code": "056203"
+    },
+    {
+        "id": "103502001",
+        "name": "Abaga",
+        "region_code": "10",
+        "province_code": "1035",
+        "city_code": "103502"
+    },
+    {
+        "id": "103515001",
+        "name": "Abaga",
+        "region_code": "10",
+        "province_code": "1035",
+        "city_code": "103515"
+    },
+    {
+        "id": "103509001",
+        "name": "Abaga",
+        "region_code": "10",
+        "province_code": "1035",
+        "city_code": "103509"
+    },
+    {
+        "id": "153603001",
+        "name": "Abaga",
+        "region_code": "15",
+        "province_code": "1536",
+        "city_code": "153603"
+    },
+    {
+        "id": "153613001",
+        "name": "Abaga",
+        "region_code": "15",
+        "province_code": "1536",
+        "city_code": "153613"
+    },
+    {
+        "id": "124705001",
+        "name": "Abaga",
+        "region_code": "12",
+        "province_code": "1247",
+        "city_code": "124705"
+    },
+    {
+        "id": "021510001",
+        "name": "Abagao",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021510"
+    },
+    {
+        "id": "021516001",
+        "name": "Abagao",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021516"
+    },
+    {
+        "id": "175302007",
+        "name": "Abagat (Pob.)",
+        "region_code": "17",
+        "province_code": "1753",
+        "city_code": "175302"
+    },
+    {
+        "id": "036906001",
+        "name": "Abagon",
+        "region_code": "03",
+        "province_code": "0369",
+        "city_code": "036906"
+    },
+    {
+        "id": "141102129",
+        "name": "Abanao-Zandueta-Kayong-Chugum-Otek (AZKCO)",
+        "region_code": "14",
+        "province_code": "1411",
+        "city_code": "141102"
+    },
+    {
+        "id": "140103001",
+        "name": "Abang",
+        "region_code": "14",
+        "province_code": "1401",
+        "city_code": "140103"
+    },
+    {
+        "id": "045623001",
+        "name": "Abang",
+        "region_code": "04",
+        "province_code": "0456",
+        "city_code": "045623"
+    },
+    {
+        "id": "063002001",
+        "name": "Abang-abang",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063002"
+    },
+    {
+        "id": "031411001",
+        "name": "Abangan Norte",
+        "region_code": "03",
+        "province_code": "0314",
+        "city_code": "031411"
+    },
+    {
+        "id": "031411002",
+        "name": "Abangan Sur",
+        "region_code": "03",
+        "province_code": "0314",
+        "city_code": "031411"
+    },
+    {
+        "id": "061917001",
+        "name": "Abangay",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061917"
+    },
+    {
+        "id": "063023001",
+        "name": "Abangay",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063023"
+    },
+    {
+        "id": "063016001",
+        "name": "Abangay",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063016"
+    },
+    {
+        "id": "063037001",
+        "name": "Abangay",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063037"
+    },
+    {
+        "id": "083706001",
+        "name": "Abango",
+        "region_code": "08",
+        "province_code": "0837",
+        "city_code": "083706"
+    },
+    {
+        "id": "083713001",
+        "name": "Abanilla",
+        "region_code": "08",
+        "province_code": "0837",
+        "city_code": "083713"
+    },
+    {
+        "id": "015532001",
+        "name": "Abanon",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015532"
+    },
+    {
+        "id": "021518001",
+        "name": "Abanqueruan",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021518"
+    },
+    {
+        "id": "074616001",
+        "name": "Abante",
+        "region_code": "07",
+        "province_code": "0746",
+        "city_code": "074616"
+    },
+    {
+        "id": "140106001",
+        "name": "Abaquid",
+        "region_code": "14",
+        "province_code": "1401",
+        "city_code": "140106"
+    },
+    {
+        "id": "034926003",
+        "name": "Abar 2nd",
+        "region_code": "03",
+        "province_code": "0349",
+        "city_code": "034926"
+    },
+    {
+        "id": "034926002",
+        "name": "Abar Ist",
+        "region_code": "03",
+        "province_code": "0349",
+        "city_code": "034926"
+    },
+    {
+        "id": "021526001",
+        "name": "Abariongan Ruar",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021526"
+    },
+    {
+        "id": "021526002",
+        "name": "Abariongan Uneg",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021526"
+    },
+    {
+        "id": "175318001",
+        "name": "Abaroan",
+        "region_code": "17",
+        "province_code": "1753",
+        "city_code": "175318"
+    },
+    {
+        "id": "056213001",
+        "name": "Abas",
+        "region_code": "05",
+        "province_code": "0562",
+        "city_code": "056213"
+    },
+    {
+        "id": "063031001",
+        "name": "Abat",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063031"
+    },
+    {
+        "id": "141105001",
+        "name": "Abatan",
+        "region_code": "14",
+        "province_code": "1411",
+        "city_code": "141105"
+    },
+    {
+        "id": "144402001",
+        "name": "Abatan",
+        "region_code": "14",
+        "province_code": "1444",
+        "city_code": "144402"
+    },
+    {
+        "id": "142702001",
+        "name": "Abatan",
+        "region_code": "14",
+        "province_code": "1427",
+        "city_code": "142702"
+    },
+    {
+        "id": "084808001",
+        "name": "Abaton",
+        "region_code": "08",
+        "province_code": "0848",
+        "city_code": "084808"
+    },
+    {
+        "id": "063029001",
+        "name": "Abay",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063029"
+    },
+    {
+        "id": "012909001",
+        "name": "Abaya",
+        "region_code": "01",
+        "province_code": "0129",
+        "city_code": "012909"
+    },
+    {
+        "id": "025704001",
+        "name": "Abbag",
+        "region_code": "02",
+        "province_code": "0257",
+        "city_code": "025704"
+    },
+    {
+        "id": "021502001",
+        "name": "Abbeg",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021502"
+    },
+    {
+        "id": "153618001",
+        "name": "Abdullah Buisan",
+        "region_code": "15",
+        "province_code": "1536",
+        "city_code": "153618"
+    },
+    {
+        "id": "071237002",
+        "name": "Abehilan",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071237"
+    },
+    {
+        "id": "082619001",
+        "name": "Abejao",
+        "region_code": "08",
+        "province_code": "0826",
+        "city_code": "082619"
+    },
+    {
+        "id": "050508001",
+        "name": "Abella",
+        "region_code": "05",
+        "province_code": "0505",
+        "city_code": "050508"
+    },
+    {
+        "id": "051724001",
+        "name": "Abella",
+        "region_code": "05",
+        "province_code": "0517",
+        "city_code": "051724"
+    },
+    {
+        "id": "041025001",
+        "name": "Abelo",
+        "region_code": "04",
+        "province_code": "0410",
+        "city_code": "041025"
+    },
+    {
+        "id": "175312018",
+        "name": "Aberawan",
+        "region_code": "17",
+        "province_code": "1753",
+        "city_code": "175312"
+    },
+    {
+        "id": "063022178",
+        "name": "Abeto Mirasol Taft South (Quirino Abeto)",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063022"
+    },
+    {
+        "id": "086409001",
+        "name": "Abgao",
+        "region_code": "08",
+        "province_code": "0864",
+        "city_code": "086409"
+    },
+    {
+        "id": "086407001",
+        "name": "Abgao (Pob.)",
+        "region_code": "08",
+        "province_code": "0864",
+        "city_code": "086407"
+    },
+    {
+        "id": "041024001",
+        "name": "Abiacao",
+        "region_code": "04",
+        "province_code": "0410",
+        "city_code": "041024"
+    },
+    {
+        "id": "025004001",
+        "name": "Abian",
+        "region_code": "02",
+        "province_code": "0250",
+        "city_code": "025004"
+    },
+    {
+        "id": "141101001",
+        "name": "Abiang",
+        "region_code": "14",
+        "province_code": "1411",
+        "city_code": "141101"
+    },
+    {
+        "id": "045620001",
+        "name": "Abiawin",
+        "region_code": "04",
+        "province_code": "0456",
+        "city_code": "045620"
+    },
+    {
+        "id": "060615001",
+        "name": "Abiera",
+        "region_code": "06",
+        "province_code": "0606",
+        "city_code": "060615"
+    },
+    {
+        "id": "052002001",
+        "name": "Abihao",
+        "region_code": "05",
+        "province_code": "0520",
+        "city_code": "052002"
+    },
+    {
+        "id": "071220001",
+        "name": "Abihid",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071220"
+    },
+    {
+        "id": "071211001",
+        "name": "Abihilan",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071211"
+    },
+    {
+        "id": "083751001",
+        "name": "Abijao",
+        "region_code": "08",
+        "province_code": "0837",
+        "city_code": "083751"
+    },
+    {
+        "id": "071222001",
+        "name": "Abijilan",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071222"
+    },
+    {
+        "id": "112505001",
+        "name": "Abijod",
+        "region_code": "11",
+        "province_code": "1125",
+        "city_code": "112505"
+    },
+    {
+        "id": "160201001",
+        "name": "Abilan",
+        "region_code": "16",
+        "province_code": "1602",
+        "city_code": "160201"
+    },
+    {
+        "id": "063029002",
+        "name": "Abilay",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063029"
+    },
+    {
+        "id": "063034001",
+        "name": "Abilay Norte",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063034"
+    },
+    {
+        "id": "063034002",
+        "name": "Abilay Sur",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063034"
+    },
+    {
+        "id": "025004002",
+        "name": "Abinganan",
+        "region_code": "02",
+        "province_code": "0250",
+        "city_code": "025004"
+    },
+    {
+        "id": "142704001",
+        "name": "Abinuan",
+        "region_code": "14",
+        "province_code": "1427",
+        "city_code": "142704"
+    },
+    {
+        "id": "074614001",
+        "name": "Abis",
+        "region_code": "07",
+        "province_code": "0746",
+        "city_code": "074614"
+    },
+    {
+        "id": "012823001",
+        "name": "Abkir",
+        "region_code": "01",
+        "province_code": "0128",
+        "city_code": "012823"
+    },
+    {
+        "id": "012805023",
+        "name": "Ablan Pob. (Labucao)",
+        "region_code": "01",
+        "province_code": "0128",
+        "city_code": "012805"
+    },
+    {
+        "id": "012806001",
+        "name": "Ablan Sarat",
+        "region_code": "01",
+        "province_code": "0128",
+        "city_code": "012806"
+    },
+    {
+        "id": "036909001",
+        "name": "Ablang-Sapang",
+        "region_code": "03",
+        "province_code": "0369",
+        "city_code": "036909"
+    },
+    {
+        "id": "072222001",
+        "name": "Ablayan",
+        "region_code": "07",
+        "province_code": "0722",
+        "city_code": "072222"
+    },
+    {
+        "id": "140105001",
+        "name": "Ableg",
+        "region_code": "14",
+        "province_code": "1401",
+        "city_code": "140105"
+    },
+    {
+        "id": "143208001",
+        "name": "Ableg",
+        "region_code": "14",
+        "province_code": "1432",
+        "city_code": "143208"
+    },
+    {
+        "id": "112406001",
+        "name": "Abnate",
+        "region_code": "11",
+        "province_code": "1124",
+        "city_code": "112406"
+    },
+    {
+        "id": "043417001",
+        "name": "Abo",
+        "region_code": "04",
+        "province_code": "0434",
+        "city_code": "043417"
+    },
+    {
+        "id": "051736001",
+        "name": "Abo",
+        "region_code": "05",
+        "province_code": "0517",
+        "city_code": "051736"
+    },
+    {
+        "id": "175324001",
+        "name": "Abo-abo",
+        "region_code": "17",
+        "province_code": "1753",
+        "city_code": "175324"
+    },
+    {
+        "id": "045627001",
+        "name": "Abo-abo",
+        "region_code": "04",
+        "province_code": "0456",
+        "city_code": "045627"
+    },
+    {
+        "id": "064520001",
+        "name": "Abo-abo",
+        "region_code": "06",
+        "province_code": "0645",
+        "city_code": "064520"
+    },
+    {
+        "id": "036910001",
+        "name": "Abogado",
+        "region_code": "03",
+        "province_code": "0369",
+        "city_code": "036910"
+    },
+    {
+        "id": "021504001",
+        "name": "Abolo",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021504"
+    },
+    {
+        "id": "015524001",
+        "name": "Abonagan",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015524"
+    },
+    {
+        "id": "063014001",
+        "name": "Abong",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063014"
+    },
+    {
+        "id": "097327001",
+        "name": "Abong-abong",
+        "region_code": "09",
+        "province_code": "0973",
+        "city_code": "097327"
+    },
+    {
+        "id": "150704001",
+        "name": "Abong-Abong",
+        "region_code": "15",
+        "province_code": "1507",
+        "city_code": "150704"
+    },
+    {
+        "id": "175320001",
+        "name": "Abongan",
+        "region_code": "17",
+        "province_code": "1753",
+        "city_code": "175320"
+    },
+    {
+        "id": "015544001",
+        "name": "Abot Molina",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015544"
+    },
+    {
+        "id": "023135001",
+        "name": "Abra",
+        "region_code": "02",
+        "province_code": "0231",
+        "city_code": "023135"
+    },
+    {
+        "id": "021513001",
+        "name": "Abra",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021513"
+    },
+    {
+        "id": "083717002",
+        "name": "Abre",
+        "region_code": "08",
+        "province_code": "0837",
+        "city_code": "083717"
+    },
+    {
+        "id": "140122001",
+        "name": "Abualan",
+        "region_code": "14",
+        "province_code": "1401",
+        "city_code": "140122"
+    },
+    {
+        "id": "064502001",
+        "name": "Abuanan",
+        "region_code": "06",
+        "province_code": "0645",
+        "city_code": "064502"
+    },
+    {
+        "id": "056213002",
+        "name": "Abucay",
+        "region_code": "05",
+        "province_code": "0562",
+        "city_code": "056213"
+    },
+    {
+        "id": "012818002",
+        "name": "Abucay",
+        "region_code": "01",
+        "province_code": "0128",
+        "city_code": "012818"
+    },
+    {
+        "id": "082622018",
+        "name": "Abucay (Pob.)",
+        "region_code": "08",
+        "province_code": "0826",
+        "city_code": "082622"
+    },
+    {
+        "id": "071241001",
+        "name": "Abucay Norte",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071241"
+    },
+    {
+        "id": "071241002",
+        "name": "Abucay Sur",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071241"
+    },
+    {
+        "id": "072208001",
+        "name": "Abucayan",
+        "region_code": "07",
+        "province_code": "0722",
+        "city_code": "072208"
+    },
+    {
+        "id": "051715001",
+        "name": "Abucayan",
+        "region_code": "05",
+        "province_code": "0517",
+        "city_code": "051715"
+    },
+    {
+        "id": "071210001",
+        "name": "Abucayan Norte",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071210"
+    },
+    {
+        "id": "071210002",
+        "name": "Abucayan Sur",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071210"
+    },
+    {
+        "id": "072246001",
+        "name": "Abugon",
+        "region_code": "07",
+        "province_code": "0722",
+        "city_code": "072246"
+    },
+    {
+        "id": "031409001",
+        "name": "Abulalas",
+        "region_code": "03",
+        "province_code": "0314",
+        "city_code": "031409"
+    },
+    {
+        "id": "023115001",
+        "name": "Abulan",
+        "region_code": "02",
+        "province_code": "0231",
+        "city_code": "023115"
+    },
+    {
+        "id": "037704001",
+        "name": "Abuleg",
+        "region_code": "03",
+        "province_code": "0377",
+        "city_code": "037704"
+    },
+    {
+        "id": "098307001",
+        "name": "Abunda",
+        "region_code": "09",
+        "province_code": "0983",
+        "city_code": "098307"
+    },
+    {
+        "id": "104317001",
+        "name": "Abunda",
+        "region_code": "10",
+        "province_code": "1043",
+        "city_code": "104317"
+    },
+    {
+        "id": "041023001",
+        "name": "Abung",
+        "region_code": "04",
+        "province_code": "0410",
+        "city_code": "041023"
+    },
+    {
+        "id": "103504001",
+        "name": "Abuno",
+        "region_code": "10",
+        "province_code": "1035",
+        "city_code": "103504"
+    },
+    {
+        "id": "012914001",
+        "name": "Abuor",
+        "region_code": "01",
+        "province_code": "0129",
+        "city_code": "012914"
+    },
+    {
+        "id": "013314001",
+        "name": "Abut",
+        "region_code": "01",
+        "province_code": "0133",
+        "city_code": "013314"
+    },
+    {
+        "id": "023122001",
+        "name": "Abut",
+        "region_code": "02",
+        "province_code": "0231",
+        "city_code": "023122"
+    },
+    {
+        "id": "025015001",
+        "name": "Abuyo",
+        "region_code": "02",
+        "province_code": "0250",
+        "city_code": "025015"
+    },
+    {
+        "id": "056216001",
+        "name": "Abuyog",
+        "region_code": "05",
+        "province_code": "0562",
+        "city_code": "056216"
+    },
+    {
+        "id": "083724001",
+        "name": "Abuyogay",
+        "region_code": "08",
+        "province_code": "0837",
+        "city_code": "083724"
+    },
+    {
+        "id": "083710001",
+        "name": "Abuyogon",
+        "region_code": "08",
+        "province_code": "0837",
+        "city_code": "083710"
+    },
+    {
+        "id": "045644001",
+        "name": "Abuyon",
+        "region_code": "04",
+        "province_code": "0456",
+        "city_code": "045644"
+    },
+    {
+        "id": "087805001",
+        "name": "Acaban",
+        "region_code": "08",
+        "province_code": "0878",
+        "city_code": "087805"
+    },
+    {
+        "id": "137502001",
+        "name": "Acacia",
+        "region_code": "13",
+        "province_code": "1375",
+        "city_code": "137502"
+    },
+    {
+        "id": "112402001",
+        "name": "Acacia",
+        "region_code": "11",
+        "province_code": "1124",
+        "city_code": "112402"
+    },
+    {
+        "id": "025010001",
+        "name": "Acacia",
+        "region_code": "02",
+        "province_code": "0250",
+        "city_code": "025010"
+    },
+    {
+        "id": "042118049",
+        "name": "Acacia",
+        "region_code": "04",
+        "province_code": "0421",
+        "city_code": "042118"
+    },
+    {
+        "id": "084805062",
+        "name": "Acacia (Pob.)",
+        "region_code": "08",
+        "province_code": "0848",
+        "city_code": "084805"
+    },
+    {
+        "id": "097302001",
+        "name": "Acad",
+        "region_code": "09",
+        "province_code": "0973",
+        "city_code": "097302"
+    },
+    {
+        "id": "063012001",
+        "name": "Acao",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063012"
+    },
+    {
+        "id": "013307001",
+        "name": "Acao",
+        "region_code": "01",
+        "province_code": "0133",
+        "city_code": "013307"
+    },
+    {
+        "id": "086407065",
+        "name": "Acasia",
+        "region_code": "08",
+        "province_code": "0864",
+        "city_code": "086407"
+    },
+    {
+        "id": "061916001",
+        "name": "Acbo",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061916"
+    },
+    {
+        "id": "021528001",
+        "name": "Accusilian",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021528"
+    },
+    {
+        "id": "086003002",
+        "name": "Acedillo",
+        "region_code": "08",
+        "province_code": "0860",
+        "city_code": "086003"
+    },
+    {
+        "id": "084823001",
+        "name": "Acedillo",
+        "region_code": "08",
+        "province_code": "0848",
+        "city_code": "084823"
+    },
+    {
+        "id": "084803001",
+        "name": "Acerida",
+        "region_code": "08",
+        "province_code": "0848",
+        "city_code": "084803"
+    },
+    {
+        "id": "043429001",
+        "name": "Acevida",
+        "region_code": "04",
+        "province_code": "0434",
+        "city_code": "043429"
+    },
+    {
+        "id": "098315001",
+        "name": "Achasol",
+        "region_code": "09",
+        "province_code": "0983",
+        "city_code": "098315"
+    },
+    {
+        "id": "071246001",
+        "name": "Achila",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071246"
+    },
+    {
+        "id": "143209001",
+        "name": "Aciga",
+        "region_code": "14",
+        "province_code": "1432",
+        "city_code": "143209"
+    },
+    {
+        "id": "160209001",
+        "name": "Aclan",
+        "region_code": "16",
+        "province_code": "1602",
+        "city_code": "160209"
+    },
+    {
+        "id": "041034001",
+        "name": "Acle",
+        "region_code": "04",
+        "province_code": "0410",
+        "city_code": "041034"
+    },
+    {
+        "id": "035413001",
+        "name": "Acli",
+        "region_code": "03",
+        "province_code": "0354",
+        "city_code": "035413"
+    },
+    {
+        "id": "103504038",
+        "name": "Acmac",
+        "region_code": "10",
+        "province_code": "1035",
+        "city_code": "103504"
+    },
+    {
+        "id": "126317001",
+        "name": "Acmonan",
+        "region_code": "12",
+        "province_code": "1263",
+        "city_code": "126317"
+    },
+    {
+        "id": "012814001",
+        "name": "Acnam",
+        "region_code": "01",
+        "province_code": "0128",
+        "city_code": "012814"
+    },
+    {
+        "id": "036910002",
+        "name": "Acocolao",
+        "region_code": "03",
+        "province_code": "0369",
+        "city_code": "036910"
+    },
+    {
+        "id": "015531001",
+        "name": "Acop",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015531"
+    },
+    {
+        "id": "012805022",
+        "name": "Acosta Pob. (Iloilo)",
+        "region_code": "01",
+        "province_code": "0128",
+        "city_code": "012805"
+    },
+    {
+        "id": "074605001",
+        "name": "Actin",
+        "region_code": "07",
+        "province_code": "0746",
+        "city_code": "074605"
+    },
+    {
+        "id": "063007001",
+        "name": "Acuit",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063007"
+    },
+    {
+        "id": "061917002",
+        "name": "Acuña",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061917"
+    },
+    {
+        "id": "083748001",
+        "name": "Ada",
+        "region_code": "08",
+        "province_code": "0837",
+        "city_code": "083748"
+    },
+    {
+        "id": "012801001",
+        "name": "Adams (Pob.)",
+        "region_code": "01",
+        "province_code": "0128",
+        "city_code": "012801"
+    },
+    {
+        "id": "097209001",
+        "name": "Adante",
+        "region_code": "09",
+        "province_code": "0972",
+        "city_code": "097209"
+    },
+    {
+        "id": "021506001",
+        "name": "Adaoag",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021506"
+    },
+    {
+        "id": "141107001",
+        "name": "Adaoay",
+        "region_code": "14",
+        "province_code": "1411",
+        "city_code": "141107"
+    },
+    {
+        "id": "153831001",
+        "name": "Adaon",
+        "region_code": "15",
+        "province_code": "1538",
+        "city_code": "153831"
+    },
+    {
+        "id": "103502002",
+        "name": "Adapun-Ali (Dariat)",
+        "region_code": "10",
+        "province_code": "1035",
+        "city_code": "103502"
+    },
+    {
+        "id": "063001001",
+        "name": "Adcadarao",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063001"
+    },
+    {
+        "id": "023115002",
+        "name": "Addalam",
+        "region_code": "02",
+        "province_code": "0231",
+        "city_code": "023115"
+    },
+    {
+        "id": "137401001",
+        "name": "Addition Hills",
+        "region_code": "13",
+        "province_code": "1374",
+        "city_code": "137401"
+    },
+    {
+        "id": "137405001",
+        "name": "Addition Hills",
+        "region_code": "13",
+        "province_code": "1374",
+        "city_code": "137405"
+    },
+    {
+        "id": "112317001",
+        "name": "Adecor",
+        "region_code": "11",
+        "province_code": "1123",
+        "city_code": "112317"
+    },
+    {
+        "id": "072238001",
+        "name": "Adela",
+        "region_code": "07",
+        "province_code": "0722",
+        "city_code": "072238"
+    },
+    {
+        "id": "175108001",
+        "name": "Adela",
+        "region_code": "17",
+        "province_code": "1751",
+        "city_code": "175108"
+    },
+    {
+        "id": "086007094",
+        "name": "Adela Heights (Pob.)",
+        "region_code": "08",
+        "province_code": "0860",
+        "city_code": "086007"
+    },
+    {
+        "id": "063046001",
+        "name": "Adgao",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063046"
+    },
+    {
+        "id": "043427001",
+        "name": "Adia",
+        "region_code": "04",
+        "province_code": "0434",
+        "city_code": "043427"
+    },
+    {
+        "id": "041001001",
+        "name": "Adia",
+        "region_code": "04",
+        "province_code": "0410",
+        "city_code": "041001"
+    },
+    {
+        "id": "045619001",
+        "name": "Adia Bitaog",
+        "region_code": "04",
+        "province_code": "0456",
+        "city_code": "045619"
+    },
+    {
+        "id": "051733001",
+        "name": "Adiangao",
+        "region_code": "05",
+        "province_code": "0517",
+        "city_code": "051733"
+    },
+    {
+        "id": "156601001",
+        "name": "Adjid",
+        "region_code": "15",
+        "province_code": "1566",
+        "city_code": "156601"
+    },
+    {
+        "id": "072217001",
+        "name": "Adlaon",
+        "region_code": "07",
+        "province_code": "0722",
+        "city_code": "072217"
+    },
+    {
+        "id": "042118001",
+        "name": "Adlas",
+        "region_code": "04",
+        "province_code": "0421",
+        "city_code": "042118"
+    },
+    {
+        "id": "061914001",
+        "name": "Adlawan",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061914"
+    },
+    {
+        "id": "071247001",
+        "name": "Adlawan",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071247"
+    },
+    {
+        "id": "166807001",
+        "name": "Adlay",
+        "region_code": "16",
+        "province_code": "1668",
+        "city_code": "166807"
+    },
+    {
+        "id": "157009014",
+        "name": "Adnin",
+        "region_code": "15",
+        "province_code": "1570",
+        "city_code": "157009"
+    },
+    {
+        "id": "104207001",
+        "name": "Adorable",
+        "region_code": "10",
+        "province_code": "1042",
+        "city_code": "104207"
+    },
+    {
+        "id": "056205001",
+        "name": "Adovis (Pob.)",
+        "region_code": "05",
+        "province_code": "0562",
+        "city_code": "056205"
+    },
+    {
+        "id": "175208001",
+        "name": "Adrialuna",
+        "region_code": "17",
+        "province_code": "1752",
+        "city_code": "175208"
+    },
+    {
+        "id": "101316001",
+        "name": "Adtuyon",
+        "region_code": "10",
+        "province_code": "1013",
+        "city_code": "101316"
+    },
+    {
+        "id": "036910003",
+        "name": "Aduas",
+        "region_code": "03",
+        "province_code": "0369",
+        "city_code": "036910"
+    },
+    {
+        "id": "034903002",
+        "name": "Aduas Centro (Aduas)",
+        "region_code": "03",
+        "province_code": "0349",
+        "city_code": "034903"
+    },
+    {
+        "id": "034903090",
+        "name": "Aduas Norte",
+        "region_code": "03",
+        "province_code": "0349",
+        "city_code": "034903"
+    },
+    {
+        "id": "034903091",
+        "name": "Aduas Sur",
+        "region_code": "03",
+        "province_code": "0349",
+        "city_code": "034903"
+    },
+    {
+        "id": "142706001",
+        "name": "Aduyongan",
+        "region_code": "14",
+        "province_code": "1427",
+        "city_code": "142706"
+    },
+    {
+        "id": "041014001",
+        "name": "Adya",
+        "region_code": "04",
+        "province_code": "0410",
+        "city_code": "041014"
+    },
+    {
+        "id": "060417001",
+        "name": "Afga",
+        "region_code": "06",
+        "province_code": "0604",
+        "city_code": "060417"
+    },
+    {
+        "id": "160314001",
+        "name": "Afga",
+        "region_code": "16",
+        "province_code": "1603",
+        "city_code": "160314"
+    },
+    {
+        "id": "126316024",
+        "name": "Aflek",
+        "region_code": "12",
+        "province_code": "1263",
+        "city_code": "126316"
+    },
+    {
+        "id": "021510002",
+        "name": "Afunan Cabayu",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021510"
+    },
+    {
+        "id": "126316017",
+        "name": "Afus",
+        "region_code": "12",
+        "province_code": "1263",
+        "city_code": "126316"
+    },
+    {
+        "id": "021502002",
+        "name": "Afusing Bato",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021502"
+    },
+    {
+        "id": "021502003",
+        "name": "Afusing Daga",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021502"
+    },
+    {
+        "id": "012926001",
+        "name": "Ag-agrao",
+        "region_code": "01",
+        "province_code": "0129",
+        "city_code": "012926"
+    },
+    {
+        "id": "012933001",
+        "name": "Ag-aguman",
+        "region_code": "01",
+        "province_code": "0129",
+        "city_code": "012933"
+    },
+    {
+        "id": "023118001",
+        "name": "Aga",
+        "region_code": "02",
+        "province_code": "0231",
+        "city_code": "023118"
+    },
+    {
+        "id": "041019001",
+        "name": "Aga",
+        "region_code": "04",
+        "province_code": "0410",
+        "city_code": "041019"
+    },
+    {
+        "id": "148106001",
+        "name": "Aga",
+        "region_code": "14",
+        "province_code": "1481",
+        "city_code": "148106"
+    },
+    {
+        "id": "051711001",
+        "name": "Agaas",
+        "region_code": "05",
+        "province_code": "0517",
+        "city_code": "051711"
+    },
+    {
+        "id": "012806002",
+        "name": "Agaga",
+        "region_code": "01",
+        "province_code": "0128",
+        "city_code": "012806"
+    },
+    {
+        "id": "153634001",
+        "name": "Agagan",
+        "region_code": "15",
+        "province_code": "1536",
+        "city_code": "153634"
+    },
+    {
+        "id": "071232002",
+        "name": "Agahay",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071232"
+    },
+    {
+        "id": "021506002",
+        "name": "Agaman (Proper)",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021506"
+    },
+    {
+        "id": "021506047",
+        "name": "Agaman Norte",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021506"
+    },
+    {
+        "id": "021506048",
+        "name": "Agaman Sur",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021506"
+    },
+    {
+        "id": "061906001",
+        "name": "Agambulong",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061906"
+    },
+    {
+        "id": "074620001",
+        "name": "Agan-an",
+        "region_code": "07",
+        "province_code": "0746",
+        "city_code": "074620"
+    },
+    {
+        "id": "063036001",
+        "name": "Aganan",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063036"
+    },
+    {
+        "id": "061902001",
+        "name": "Aganan",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061902"
+    },
+    {
+        "id": "021502004",
+        "name": "Agani",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021502"
+    },
+    {
+        "id": "160202002",
+        "name": "Agao Pob. (Bgy. 3)",
+        "region_code": "16",
+        "province_code": "1602",
+        "city_code": "160202"
+    },
+    {
+        "id": "051730001",
+        "name": "Agao-ao",
+        "region_code": "05",
+        "province_code": "0517",
+        "city_code": "051730"
+    },
+    {
+        "id": "071228001",
+        "name": "Agape",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071228"
+    },
+    {
+        "id": "071229001",
+        "name": "Agape",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071229"
+    },
+    {
+        "id": "035401001",
+        "name": "Agapito del Rosario",
+        "region_code": "03",
+        "province_code": "0354",
+        "city_code": "035401"
+    },
+    {
+        "id": "104213016",
+        "name": "Agapito Yap, Sr. (Napilan)",
+        "region_code": "10",
+        "province_code": "1042",
+        "city_code": "104213"
+    },
+    {
+        "id": "083713002",
+        "name": "Agas",
+        "region_code": "08",
+        "province_code": "0837",
+        "city_code": "083713"
+    },
+    {
+        "id": "015541001",
+        "name": "Agat",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015541"
+    },
+    {
+        "id": "144403001",
+        "name": "Agawa",
+        "region_code": "14",
+        "province_code": "1444",
+        "city_code": "144403"
+    },
+    {
+        "id": "086414001",
+        "name": "Agay-ay",
+        "region_code": "08",
+        "province_code": "0864",
+        "city_code": "086414"
+    },
+    {
+        "id": "104308001",
+        "name": "Agay-ayan",
+        "region_code": "10",
+        "province_code": "1043",
+        "city_code": "104308"
+    },
+    {
+        "id": "051737001",
+        "name": "Agay-Ayan",
+        "region_code": "05",
+        "province_code": "0517",
+        "city_code": "051737"
+    },
+    {
+        "id": "063010001",
+        "name": "Agba-o",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063010"
+    },
+    {
+        "id": "061910001",
+        "name": "Agbabadiang",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061910"
+    },
+    {
+        "id": "060406001",
+        "name": "Agbago",
+        "region_code": "06",
+        "province_code": "0604",
+        "city_code": "060406"
+    },
+    {
+        "id": "072233001",
+        "name": "Agbalanga",
+        "region_code": "07",
+        "province_code": "0722",
+        "city_code": "072233"
+    },
+    {
+        "id": "061909001",
+        "name": "Agbalo",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061909"
+    },
+    {
+        "id": "060411001",
+        "name": "Agbalogo",
+        "region_code": "06",
+        "province_code": "0604",
+        "city_code": "060411"
+    },
+    {
+        "id": "175910001",
+        "name": "Agbaluto",
+        "region_code": "17",
+        "province_code": "1759",
+        "city_code": "175910"
+    },
+    {
+        "id": "052002002",
+        "name": "Agban",
+        "region_code": "05",
+        "province_code": "0520",
+        "city_code": "052002"
+    },
+    {
+        "id": "060403001",
+        "name": "Agbanawan",
+        "region_code": "06",
+        "province_code": "0604",
+        "city_code": "060403"
+    },
+    {
+        "id": "061909002",
+        "name": "Agbanban",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061909"
+    },
+    {
+        "id": "072206001",
+        "name": "Agbanga",
+        "region_code": "07",
+        "province_code": "0722",
+        "city_code": "072206"
+    },
+    {
+        "id": "083734001",
+        "name": "Agbanga",
+        "region_code": "08",
+        "province_code": "0837",
+        "city_code": "083734"
+    },
+    {
+        "id": "143213001",
+        "name": "Agbannawag",
+        "region_code": "14",
+        "province_code": "1432",
+        "city_code": "143213"
+    },
+    {
+        "id": "034923002",
+        "name": "Agbannawag",
+        "region_code": "03",
+        "province_code": "0349",
+        "city_code": "034923"
+    },
+    {
+        "id": "061912001",
+        "name": "Agbanog",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061912"
+    },
+    {
+        "id": "061904001",
+        "name": "Agbatuan",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061904"
+    },
+    {
+        "id": "063003001",
+        "name": "Agbatuan",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063003"
+    },
+    {
+        "id": "063001002",
+        "name": "Agbobolo",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063001"
+    },
+    {
+        "id": "064506001",
+        "name": "Agboy",
+        "region_code": "06",
+        "province_code": "0645",
+        "city_code": "064506"
+    },
+    {
+        "id": "063028001",
+        "name": "Agboy Norte",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063028"
+    },
+    {
+        "id": "063028002",
+        "name": "Agboy Sur",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063028"
+    },
+    {
+        "id": "175910003",
+        "name": "Agbudia",
+        "region_code": "17",
+        "province_code": "1759",
+        "city_code": "175910"
+    },
+    {
+        "id": "061906002",
+        "name": "Agbun-od",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061906"
+    },
+    {
+        "id": "061901001",
+        "name": "Agcabugao",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061901"
+    },
+    {
+        "id": "061906003",
+        "name": "Agcagay",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061906"
+    },
+    {
+        "id": "063013002",
+        "name": "Agcalaga",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063013"
+    },
+    {
+        "id": "034911001",
+        "name": "Agcano",
+        "region_code": "03",
+        "province_code": "0349",
+        "city_code": "034911"
+    },
+    {
+        "id": "063023002",
+        "name": "Agcarope",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063023"
+    },
+    {
+        "id": "060408001",
+        "name": "Agcawilan",
+        "region_code": "06",
+        "province_code": "0604",
+        "city_code": "060408"
+    },
+    {
+        "id": "061917003",
+        "name": "Agcococ",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061917"
+    },
+    {
+        "id": "063007002",
+        "name": "Agcuyawan Calsada",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063007"
+    },
+    {
+        "id": "063007003",
+        "name": "Agcuyawan Pulo",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063007"
+    },
+    {
+        "id": "063035001",
+        "name": "Agdahon",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063035"
+    },
+    {
+        "id": "061901002",
+        "name": "Agdahon",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061901"
+    },
+    {
+        "id": "061912002",
+        "name": "Agdalipe",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061912"
+    },
+    {
+        "id": "063038001",
+        "name": "Agdaliran",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063038"
+    },
+    {
+        "id": "051701001",
+        "name": "Agdangan Pob. (San Cayetano)",
+        "region_code": "05",
+        "province_code": "0517",
+        "city_code": "051701"
+    },
+    {
+        "id": "015532002",
+        "name": "Agdao",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015532"
+    },
+    {
+        "id": "015524002",
+        "name": "Agdao",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015524"
+    },
+    {
+        "id": "112402002",
+        "name": "Agdao",
+        "region_code": "11",
+        "province_code": "1124",
+        "city_code": "112402"
+    },
+    {
+        "id": "063035002",
+        "name": "Agdayao",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063035"
+    },
+    {
+        "id": "013306001",
+        "name": "Agdeppa",
+        "region_code": "01",
+        "province_code": "0133",
+        "city_code": "013306"
+    },
+    {
+        "id": "060406002",
+        "name": "Agdugayan",
+        "region_code": "06",
+        "province_code": "0604",
+        "city_code": "060406"
+    },
+    {
+        "id": "063030001",
+        "name": "Agdum",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063030"
+    },
+    {
+        "id": "012815001",
+        "name": "Aggasi",
+        "region_code": "01",
+        "province_code": "0128",
+        "city_code": "012815"
+    },
+    {
+        "id": "023114002",
+        "name": "Aggasian",
+        "region_code": "02",
+        "province_code": "0231",
+        "city_code": "023114"
+    },
+    {
+        "id": "012903001",
+        "name": "Aggay",
+        "region_code": "01",
+        "province_code": "0129",
+        "city_code": "012903"
+    },
+    {
+        "id": "025013001",
+        "name": "Aggub",
+        "region_code": "02",
+        "province_code": "0250",
+        "city_code": "025013"
+    },
+    {
+        "id": "023106001",
+        "name": "Aggub",
+        "region_code": "02",
+        "province_code": "0231",
+        "city_code": "023106"
+    },
+    {
+        "id": "021519001",
+        "name": "Aggugaddan",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021519"
+    },
+    {
+        "id": "021504002",
+        "name": "Agguirit",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021504"
+    },
+    {
+        "id": "021517001",
+        "name": "Aggunetan",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021517"
+    },
+    {
+        "id": "175103001",
+        "name": "Agkawayan",
+        "region_code": "17",
+        "province_code": "1751",
+        "city_code": "175103"
+    },
+    {
+        "id": "061910002",
+        "name": "Agkilo",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061910"
+    },
+    {
+        "id": "074612001",
+        "name": "Aglahug",
+        "region_code": "07",
+        "province_code": "0746",
+        "city_code": "074612"
+    },
+    {
+        "id": "063035003",
+        "name": "Aglalana",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063035"
+    },
+    {
+        "id": "061904002",
+        "name": "Aglalana",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061904"
+    },
+    {
+        "id": "061904003",
+        "name": "Aglanot",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061904"
+    },
+    {
+        "id": "037111001",
+        "name": "Aglao",
+        "region_code": "03",
+        "province_code": "0371",
+        "city_code": "037111"
+    },
+    {
+        "id": "101312001",
+        "name": "Aglayan",
+        "region_code": "10",
+        "province_code": "1013",
+        "city_code": "101312"
+    },
+    {
+        "id": "023130001",
+        "name": "Agliam",
+        "region_code": "02",
+        "province_code": "0231",
+        "city_code": "023130"
+    },
+    {
+        "id": "061906004",
+        "name": "Aglibacao",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061906"
+    },
+    {
+        "id": "063013003",
+        "name": "Aglibacao",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063013"
+    },
+    {
+        "id": "061907001",
+        "name": "Aglimocon",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061907"
+    },
+    {
+        "id": "061917004",
+        "name": "Aglinab",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061917"
+    },
+    {
+        "id": "012819001",
+        "name": "Aglipay",
+        "region_code": "01",
+        "province_code": "0128",
+        "city_code": "012819"
+    },
+    {
+        "id": "034923011",
+        "name": "Aglipay (Curva)",
+        "region_code": "03",
+        "province_code": "0349",
+        "city_code": "034923"
+    },
+    {
+        "id": "012805001",
+        "name": "Aglipay (Pob.)",
+        "region_code": "01",
+        "province_code": "0128",
+        "city_code": "012805"
+    },
+    {
+        "id": "063023003",
+        "name": "Aglobong",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063023"
+    },
+    {
+        "id": "061906005",
+        "name": "Agloloway",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061906"
+    },
+    {
+        "id": "063013004",
+        "name": "Aglonok",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063013"
+    },
+    {
+        "id": "063015002",
+        "name": "Aglosong",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063015"
+    },
+    {
+        "id": "061910003",
+        "name": "Agloway",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061910"
+    },
+    {
+        "id": "060411002",
+        "name": "Aglucay",
+        "region_code": "06",
+        "province_code": "0604",
+        "city_code": "060411"
+    },
+    {
+        "id": "061917005",
+        "name": "Aglupacan",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061917"
+    },
+    {
+        "id": "060409001",
+        "name": "Agmailig",
+        "region_code": "06",
+        "province_code": "0604",
+        "city_code": "060409"
+    },
+    {
+        "id": "061905001",
+        "name": "Agmalobo",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061905"
+    },
+    {
+        "id": "063031002",
+        "name": "Agmanaphao",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063031"
+    },
+    {
+        "id": "175915001",
+        "name": "Agmanic",
+        "region_code": "17",
+        "province_code": "1759",
+        "city_code": "175915"
+    },
+    {
+        "id": "175910004",
+        "name": "Agnaga",
+        "region_code": "17",
+        "province_code": "1759",
+        "city_code": "175910"
+    },
+    {
+        "id": "061901003",
+        "name": "Agnaga",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061901"
+    },
+    {
+        "id": "063015003",
+        "name": "Agnaga",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063015"
+    },
+    {
+        "id": "050517001",
+        "name": "Agnas (San Miguel Island)",
+        "region_code": "05",
+        "province_code": "0505",
+        "city_code": "050517"
+    },
+    {
+        "id": "175910005",
+        "name": "Agnay",
+        "region_code": "17",
+        "province_code": "1759",
+        "city_code": "175910"
+    },
+    {
+        "id": "031417001",
+        "name": "Agnaya",
+        "region_code": "03",
+        "province_code": "0314",
+        "city_code": "031417"
+    },
+    {
+        "id": "175910006",
+        "name": "Agnipa",
+        "region_code": "17",
+        "province_code": "1759",
+        "city_code": "175910"
+    },
+    {
+        "id": "015543001",
+        "name": "Agno",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015543"
+    },
+    {
+        "id": "175916001",
+        "name": "Agnonoc",
+        "region_code": "17",
+        "province_code": "1759",
+        "city_code": "175916"
+    },
+    {
+        "id": "063046002",
+        "name": "Ago",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063046"
+    },
+    {
+        "id": "101804001",
+        "name": "Agoho",
+        "region_code": "10",
+        "province_code": "1018",
+        "city_code": "101804"
+    },
+    {
+        "id": "045607001",
+        "name": "Agoho",
+        "region_code": "04",
+        "province_code": "0456",
+        "city_code": "045607"
+    },
+    {
+        "id": "054109001",
+        "name": "Agoho",
+        "region_code": "05",
+        "province_code": "0541",
+        "city_code": "054109"
+    },
+    {
+        "id": "052008001",
+        "name": "Agojo",
+        "region_code": "05",
+        "province_code": "0520",
+        "city_code": "052008"
+    },
+    {
+        "id": "061909003",
+        "name": "Agojo",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061909"
+    },
+    {
+        "id": "175907001",
+        "name": "Agojo",
+        "region_code": "17",
+        "province_code": "1759",
+        "city_code": "175907"
+    },
+    {
+        "id": "050513001",
+        "name": "Agol",
+        "region_code": "05",
+        "province_code": "0505",
+        "city_code": "050513"
+    },
+    {
+        "id": "160201002",
+        "name": "Agong-ong",
+        "region_code": "16",
+        "province_code": "1602",
+        "city_code": "160201"
+    },
+    {
+        "id": "050514001",
+        "name": "Agos",
+        "region_code": "05",
+        "province_code": "0505",
+        "city_code": "050514"
+    },
+    {
+        "id": "051703001",
+        "name": "Agos",
+        "region_code": "05",
+        "province_code": "0517",
+        "city_code": "051703"
+    },
+    {
+        "id": "175206002",
+        "name": "Agos",
+        "region_code": "17",
+        "province_code": "1752",
+        "city_code": "175206"
+    },
+    {
+        "id": "045620002",
+        "name": "Agos-agos",
+        "region_code": "04",
+        "province_code": "0456",
+        "city_code": "045620"
+    },
+    {
+        "id": "051717001",
+        "name": "Agosais",
+        "region_code": "05",
+        "province_code": "0517",
+        "city_code": "051717"
+    },
+    {
+        "id": "174001001",
+        "name": "Agot",
+        "region_code": "17",
+        "province_code": "1740",
+        "city_code": "174001"
+    },
+    {
+        "id": "061917006",
+        "name": "Agpalali",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061917"
+    },
+    {
+        "id": "175910002",
+        "name": "Agpanabat",
+        "region_code": "17",
+        "province_code": "1759",
+        "city_code": "175910"
+    },
+    {
+        "id": "064505001",
+        "name": "Agpangi",
+        "region_code": "06",
+        "province_code": "0645",
+        "city_code": "064505"
+    },
+    {
+        "id": "087808001",
+        "name": "Agpangi",
+        "region_code": "08",
+        "province_code": "0878",
+        "city_code": "087808"
+    },
+    {
+        "id": "050504001",
+        "name": "Agpay",
+        "region_code": "05",
+        "province_code": "0505",
+        "city_code": "050504"
+    },
+    {
+        "id": "013308001",
+        "name": "Agpay",
+        "region_code": "01",
+        "province_code": "0133",
+        "city_code": "013308"
+    },
+    {
+        "id": "063027001",
+        "name": "Agpipili",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063027"
+    },
+    {
+        "id": "051717002",
+        "name": "Agpo-Camagong-Tabog",
+        "region_code": "05",
+        "province_code": "0517",
+        "city_code": "051717"
+    },
+    {
+        "id": "175912001",
+        "name": "Agpudlos",
+        "region_code": "17",
+        "province_code": "1759",
+        "city_code": "175912"
+    },
+    {
+        "id": "060614001",
+        "name": "Agricula",
+        "region_code": "06",
+        "province_code": "0606",
+        "city_code": "060614"
+    },
+    {
+        "id": "124709002",
+        "name": "Agriculture",
+        "region_code": "12",
+        "province_code": "1247",
+        "city_code": "124709"
+    },
+    {
+        "id": "063029004",
+        "name": "AGROCEL Pob. (Aguinaldo-Roxas--Celso Mayor)",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063029"
+    },
+    {
+        "id": "086016001",
+        "name": "Agrupacion",
+        "region_code": "08",
+        "province_code": "0860",
+        "city_code": "086016"
+    },
+    {
+        "id": "051730002",
+        "name": "Agrupacion",
+        "region_code": "05",
+        "province_code": "0517",
+        "city_code": "051730"
+    },
+    {
+        "id": "160303031",
+        "name": "Agsabu",
+        "region_code": "16",
+        "province_code": "1603",
+        "city_code": "160303"
+    },
+    {
+        "id": "063016002",
+        "name": "Agsalanan",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063016"
+    },
+    {
+        "id": "175206001",
+        "name": "Agsalin",
+        "region_code": "17",
+        "province_code": "1752",
+        "city_code": "175206"
+    },
+    {
+        "id": "082617001",
+        "name": "Agsam",
+        "region_code": "08",
+        "province_code": "0826",
+        "city_code": "082617"
+    },
+    {
+        "id": "166810001",
+        "name": "Agsam",
+        "region_code": "16",
+        "province_code": "1668",
+        "city_code": "166810"
+    },
+    {
+        "id": "082611001",
+        "name": "Agsaman",
+        "region_code": "08",
+        "province_code": "0826",
+        "city_code": "082611"
+    },
+    {
+        "id": "067901001",
+        "name": "Agsanayan",
+        "region_code": "06",
+        "province_code": "0679",
+        "city_code": "067901"
+    },
+    {
+        "id": "175908001",
+        "name": "Agsao",
+        "region_code": "17",
+        "province_code": "1759",
+        "city_code": "175908"
+    },
+    {
+        "id": "061915001",
+        "name": "Agsilab",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061915"
+    },
+    {
+        "id": "063002002",
+        "name": "Agsing",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063002"
+    },
+    {
+        "id": "063025001",
+        "name": "Agsirab",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063025"
+    },
+    {
+        "id": "061904006",
+        "name": "Agsirab",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061904"
+    },
+    {
+        "id": "071230001",
+        "name": "Agsoso",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071230"
+    },
+    {
+        "id": "072217002",
+        "name": "Agsungot",
+        "region_code": "07",
+        "province_code": "0722",
+        "city_code": "072217"
+    },
+    {
+        "id": "072216001",
+        "name": "Agsuwao",
+        "region_code": "07",
+        "province_code": "0722",
+        "city_code": "072216"
+    },
+    {
+        "id": "063028003",
+        "name": "Agta",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063028"
+    },
+    {
+        "id": "063035004",
+        "name": "Agtabo",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063035"
+    },
+    {
+        "id": "061902002",
+        "name": "Agtambi",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061902"
+    },
+    {
+        "id": "063035005",
+        "name": "Agtambo",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063035"
+    },
+    {
+        "id": "140101001",
+        "name": "Agtangao",
+        "region_code": "14",
+        "province_code": "1401",
+        "city_code": "140101"
+    },
+    {
+        "id": "061902003",
+        "name": "Agtanguay",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061902"
+    },
+    {
+        "id": "063016003",
+        "name": "Agtatacay",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063016"
+    },
+    {
+        "id": "061915002",
+        "name": "Agtatacay Norte",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061915"
+    },
+    {
+        "id": "061915003",
+        "name": "Agtatacay Sur",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061915"
+    },
+    {
+        "id": "013303001",
+        "name": "Agtipal",
+        "region_code": "01",
+        "province_code": "0133",
+        "city_code": "013303"
+    },
+    {
+        "id": "175913001",
+        "name": "Agtiwa",
+        "region_code": "17",
+        "province_code": "1759",
+        "city_code": "175913"
+    },
+    {
+        "id": "175910007",
+        "name": "Agtongo",
+        "region_code": "17",
+        "province_code": "1759",
+        "city_code": "175910"
+    },
+    {
+        "id": "072206002",
+        "name": "Agtugop",
+        "region_code": "07",
+        "province_code": "0722",
+        "city_code": "072206"
+    },
+    {
+        "id": "063025002",
+        "name": "Agtuman",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063025"
+    },
+    {
+        "id": "084816001",
+        "name": "Aguada",
+        "region_code": "08",
+        "province_code": "0848",
+        "city_code": "084816"
+    },
+    {
+        "id": "099701002",
+        "name": "Aguada",
+        "region_code": "09",
+        "province_code": "0997",
+        "city_code": "099701"
+    },
+    {
+        "id": "054117001",
+        "name": "Aguada",
+        "region_code": "05",
+        "province_code": "0541",
+        "city_code": "054117"
+    },
+    {
+        "id": "054105002",
+        "name": "Aguada",
+        "region_code": "05",
+        "province_code": "0541",
+        "city_code": "054105"
+    },
+    {
+        "id": "104210001",
+        "name": "Aguada (Pob.)",
+        "region_code": "10",
+        "province_code": "1042",
+        "city_code": "104210"
+    },
+    {
+        "id": "056211001",
+        "name": "Aguada Norte",
+        "region_code": "05",
+        "province_code": "0562",
+        "city_code": "056211"
+    },
+    {
+        "id": "056211002",
+        "name": "Aguada Sur",
+        "region_code": "05",
+        "province_code": "0562",
+        "city_code": "056211"
+    },
+    {
+        "id": "084819002",
+        "name": "Aguadahan",
+        "region_code": "08",
+        "province_code": "0848",
+        "city_code": "084819"
+    },
+    {
+        "id": "084808002",
+        "name": "Aguadahan",
+        "region_code": "08",
+        "province_code": "0848",
+        "city_code": "084808"
+    },
+    {
+        "id": "042122011",
+        "name": "Aguado (Piscal Mundo)",
+        "region_code": "04",
+        "province_code": "0421",
+        "city_code": "042122"
+    },
+    {
+        "id": "175108002",
+        "name": "Aguas",
+        "region_code": "17",
+        "province_code": "1751",
+        "city_code": "175108"
+    },
+    {
+        "id": "140110001",
+        "name": "Aguet",
+        "region_code": "14",
+        "province_code": "1401",
+        "city_code": "140110"
+    },
+    {
+        "id": "137606001",
+        "name": "Aguho",
+        "region_code": "13",
+        "province_code": "1376",
+        "city_code": "137606"
+    },
+    {
+        "id": "072221001",
+        "name": "Aguho",
+        "region_code": "07",
+        "province_code": "0722",
+        "city_code": "072221"
+    },
+    {
+        "id": "063030002",
+        "name": "Aguiauan",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063030"
+    },
+    {
+        "id": "144409001",
+        "name": "Aguid",
+        "region_code": "14",
+        "province_code": "1444",
+        "city_code": "144409"
+    },
+    {
+        "id": "021513005",
+        "name": "Aguiguican",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021513"
+    },
+    {
+        "id": "060615002",
+        "name": "Aguila",
+        "region_code": "06",
+        "province_code": "0606",
+        "city_code": "060615"
+    },
+    {
+        "id": "041022001",
+        "name": "Aguila",
+        "region_code": "04",
+        "province_code": "0410",
+        "city_code": "041022"
+    },
+    {
+        "id": "067904001",
+        "name": "Aguilar",
+        "region_code": "06",
+        "province_code": "0679",
+        "city_code": "067904"
+    },
+    {
+        "id": "084804001",
+        "name": "Aguin",
+        "region_code": "08",
+        "province_code": "0848",
+        "city_code": "084804"
+    },
+    {
+        "id": "082607028",
+        "name": "Aguinaldo",
+        "region_code": "08",
+        "province_code": "0826",
+        "city_code": "082607"
+    },
+    {
+        "id": "084805001",
+        "name": "Aguinaldo",
+        "region_code": "08",
+        "province_code": "0848",
+        "city_code": "084805"
+    },
+    {
+        "id": "082601001",
+        "name": "Aguinaldo",
+        "region_code": "08",
+        "province_code": "0826",
+        "city_code": "082601"
+    },
+    {
+        "id": "086408001",
+        "name": "Aguinaldo",
+        "region_code": "08",
+        "province_code": "0864",
+        "city_code": "086408"
+    },
+    {
+        "id": "118202001",
+        "name": "Aguinaldo",
+        "region_code": "11",
+        "province_code": "1182",
+        "city_code": "118202"
+    },
+    {
+        "id": "098309001",
+        "name": "Aguinaldo",
+        "region_code": "09",
+        "province_code": "0983",
+        "city_code": "098309"
+    },
+    {
+        "id": "160303032",
+        "name": "Aguinaldo",
+        "region_code": "16",
+        "province_code": "1603",
+        "city_code": "160303"
+    },
+    {
+        "id": "063022003",
+        "name": "Aguinaldo",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063022"
+    },
+    {
+        "id": "023120001",
+        "name": "Aguinaldo",
+        "region_code": "02",
+        "province_code": "0231",
+        "city_code": "023120"
+    },
+    {
+        "id": "056203003",
+        "name": "Aguinaldo",
+        "region_code": "05",
+        "province_code": "0562",
+        "city_code": "056203"
+    },
+    {
+        "id": "034928022",
+        "name": "Aguinaldo",
+        "region_code": "03",
+        "province_code": "0349",
+        "city_code": "034928"
+    },
+    {
+        "id": "023109001",
+        "name": "Aguinaldo (Rizaluna Este)",
+        "region_code": "02",
+        "province_code": "0231",
+        "city_code": "023109"
+    },
+    {
+        "id": "012930001",
+        "name": "Aguing",
+        "region_code": "01",
+        "province_code": "0129",
+        "city_code": "012930"
+    },
+    {
+        "id": "063023004",
+        "name": "Aguingay",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063023"
+    },
+    {
+        "id": "086014001",
+        "name": "Aguingayan",
+        "region_code": "08",
+        "province_code": "0860",
+        "city_code": "086014"
+    },
+    {
+        "id": "071235001",
+        "name": "Aguining",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071235"
+    },
+    {
+        "id": "013311001",
+        "name": "Aguioas",
+        "region_code": "01",
+        "province_code": "0133",
+        "city_code": "013311"
+    },
+    {
+        "id": "071231003",
+        "name": "Aguipo",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071231"
+    },
+    {
+        "id": "063044001",
+        "name": "Aguirre",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063044"
+    },
+    {
+        "id": "064510001",
+        "name": "Aguisan",
+        "region_code": "06",
+        "province_code": "0645",
+        "city_code": "064510"
+    },
+    {
+        "id": "051612001",
+        "name": "Aguit-It",
+        "region_code": "05",
+        "province_code": "0516",
+        "city_code": "051612"
+    },
+    {
+        "id": "086003074",
+        "name": "Aguit-itan (Pob.)",
+        "region_code": "08",
+        "province_code": "0860",
+        "city_code": "086003"
+    },
+    {
+        "id": "012822001",
+        "name": "Aguitap",
+        "region_code": "01",
+        "province_code": "0128",
+        "city_code": "012822"
+    },
+    {
+        "id": "083726001",
+        "name": "Aguiting",
+        "region_code": "08",
+        "province_code": "0837",
+        "city_code": "083726"
+    },
+    {
+        "id": "174001002",
+        "name": "Agumaymayan",
+        "region_code": "17",
+        "province_code": "1740",
+        "city_code": "174001"
+    },
+    {
+        "id": "104212001",
+        "name": "Agunod",
+        "region_code": "10",
+        "province_code": "1042",
+        "city_code": "104212"
+    },
+    {
+        "id": "034916002",
+        "name": "Agupalo Este",
+        "region_code": "03",
+        "province_code": "0349",
+        "city_code": "034916"
+    },
+    {
+        "id": "034916003",
+        "name": "Agupalo Weste",
+        "region_code": "03",
+        "province_code": "0349",
+        "city_code": "034916"
+    },
+    {
+        "id": "072226001",
+        "name": "Agus",
+        "region_code": "07",
+        "province_code": "0722",
+        "city_code": "072226"
+    },
+    {
+        "id": "042110001",
+        "name": "Agus-us",
+        "region_code": "04",
+        "province_code": "0421",
+        "city_code": "042110"
+    },
+    {
+        "id": "104305001",
+        "name": "Agusan",
+        "region_code": "10",
+        "province_code": "1043",
+        "city_code": "104305"
+    },
+    {
+        "id": "101314001",
+        "name": "Agusan Canyon",
+        "region_code": "10",
+        "province_code": "1013",
+        "city_code": "101314"
+    },
+    {
+        "id": "160202003",
+        "name": "Agusan Pequeño",
+        "region_code": "16",
+        "province_code": "1602",
+        "city_code": "160202"
+    },
+    {
+        "id": "021510003",
+        "name": "Agusi",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021510"
+    },
+    {
+        "id": "063004001",
+        "name": "Agusipan",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063004"
+    },
+    {
+        "id": "063043001",
+        "name": "Agusipan",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063043"
+    },
+    {
+        "id": "036916001",
+        "name": "Aguso",
+        "region_code": "03",
+        "province_code": "0369",
+        "city_code": "036916"
+    },
+    {
+        "id": "061905002",
+        "name": "Agustin Navarra",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061905"
+    },
+    {
+        "id": "175908002",
+        "name": "Agutay",
+        "region_code": "17",
+        "province_code": "1759",
+        "city_code": "175908"
+    },
+    {
+        "id": "087807001",
+        "name": "Agutay",
+        "region_code": "08",
+        "province_code": "0878",
+        "city_code": "087807"
+    },
+    {
+        "id": "063017001",
+        "name": "Agutayan",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063017"
+    },
+    {
+        "id": "063043002",
+        "name": "Agutayan",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063043"
+    },
+    {
+        "id": "083719001",
+        "name": "Agutayan",
+        "region_code": "08",
+        "province_code": "0837",
+        "city_code": "083719"
+    },
+    {
+        "id": "098302021",
+        "name": "Agutayan",
+        "region_code": "09",
+        "province_code": "0983",
+        "city_code": "098302"
+    },
+    {
+        "id": "175304001",
+        "name": "Agutayan",
+        "region_code": "17",
+        "province_code": "1753",
+        "city_code": "175304"
+    },
+    {
+        "id": "074612002",
+        "name": "Agutayon",
+        "region_code": "07",
+        "province_code": "0746",
+        "city_code": "074612"
+    },
+    {
+        "id": "153825001",
+        "name": "Ahan",
+        "region_code": "15",
+        "province_code": "1538",
+        "city_code": "153825"
+    },
+    {
+        "id": "142710001",
+        "name": "Ahin",
+        "region_code": "14",
+        "province_code": "1427",
+        "city_code": "142710"
+    },
+    {
+        "id": "083738092",
+        "name": "Airport",
+        "region_code": "08",
+        "province_code": "0837",
+        "city_code": "083738"
+    },
+    {
+        "id": "063022004",
+        "name": "Airport (Tabucan Airport)",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063022"
+    },
+    {
+        "id": "084805002",
+        "name": "Airport Village",
+        "region_code": "08",
+        "province_code": "0848",
+        "city_code": "084805"
+    },
+    {
+        "id": "021515001",
+        "name": "Ajat (Pob.)",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021515"
+    },
+    {
+        "id": "074620002",
+        "name": "Ajong",
+        "region_code": "07",
+        "province_code": "0746",
+        "city_code": "074620"
+    },
+    {
+        "id": "045610001",
+        "name": "Ajos",
+        "region_code": "04",
+        "province_code": "0456",
+        "city_code": "045610"
+    },
+    {
+        "id": "045628001",
+        "name": "Ajos",
+        "region_code": "04",
+        "province_code": "0456",
+        "city_code": "045628"
+    },
+    {
+        "id": "025703031",
+        "name": "Aklan Village",
+        "region_code": "02",
+        "province_code": "0257",
+        "city_code": "025703"
+    },
+    {
+        "id": "031419001",
+        "name": "Akle",
+        "region_code": "03",
+        "province_code": "0314",
+        "city_code": "031419"
+    },
+    {
+        "id": "126509001",
+        "name": "Akol",
+        "region_code": "12",
+        "province_code": "1265",
+        "city_code": "126509"
+    },
+    {
+        "id": "013311002",
+        "name": "Al-alinao Norte",
+        "region_code": "01",
+        "province_code": "0133",
+        "city_code": "013311"
+    },
+    {
+        "id": "013311003",
+        "name": "Al-alinao Sur",
+        "region_code": "01",
+        "province_code": "0133",
+        "city_code": "013311"
+    },
+    {
+        "id": "012927001",
+        "name": "Al-aludig",
+        "region_code": "01",
+        "province_code": "0129",
+        "city_code": "012927"
+    },
+    {
+        "id": "126503001",
+        "name": "Ala",
+        "region_code": "12",
+        "province_code": "1265",
+        "city_code": "126503"
+    },
+    {
+        "id": "030811001",
+        "name": "Ala-uli",
+        "region_code": "03",
+        "province_code": "0308",
+        "city_code": "030811"
+    },
+    {
+        "id": "144404002",
+        "name": "Alab Oriente",
+        "region_code": "14",
+        "province_code": "1444",
+        "city_code": "144404"
+    },
+    {
+        "id": "144404001",
+        "name": "Alab Proper",
+        "region_code": "14",
+        "province_code": "1444",
+        "city_code": "144404"
+    },
+    {
+        "id": "137603001",
+        "name": "Alabang",
+        "region_code": "13",
+        "province_code": "1376",
+        "city_code": "137603"
+    },
+    {
+        "id": "050513002",
+        "name": "Alabangpuro",
+        "region_code": "05",
+        "province_code": "0505",
+        "city_code": "050513"
+    },
+    {
+        "id": "021528002",
+        "name": "Alabiao",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021528"
+    },
+    {
+        "id": "063010002",
+        "name": "Alabidhan",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063010"
+    },
+    {
+        "id": "021528003",
+        "name": "Alabug",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021528"
+    },
+    {
+        "id": "015537001",
+        "name": "Alac",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015537"
+    },
+    {
+        "id": "175111001",
+        "name": "Alacaak",
+        "region_code": "17",
+        "province_code": "1751",
+        "city_code": "175111"
+    },
+    {
+        "id": "175320025",
+        "name": "Alacalian",
+        "region_code": "17",
+        "province_code": "1753",
+        "city_code": "175320"
+    },
+    {
+        "id": "015524003",
+        "name": "Alacan",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015524"
+    },
+    {
+        "id": "015533031",
+        "name": "Alacan",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015533"
+    },
+    {
+        "id": "064508001",
+        "name": "Alacaygan",
+        "region_code": "06",
+        "province_code": "0645",
+        "city_code": "064508"
+    },
+    {
+        "id": "063006003",
+        "name": "Alacaygan",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063006"
+    },
+    {
+        "id": "175910008",
+        "name": "Alad",
+        "region_code": "17",
+        "province_code": "1759",
+        "city_code": "175910"
+    },
+    {
+        "id": "101314002",
+        "name": "Alae",
+        "region_code": "10",
+        "province_code": "1013",
+        "city_code": "101314"
+    },
+    {
+        "id": "175201001",
+        "name": "Alag",
+        "region_code": "17",
+        "province_code": "1752",
+        "city_code": "175201"
+    },
+    {
+        "id": "041006001",
+        "name": "Alagao",
+        "region_code": "04",
+        "province_code": "0410",
+        "city_code": "041006"
+    },
+    {
+        "id": "031419002",
+        "name": "Alagao",
+        "region_code": "03",
+        "province_code": "0314",
+        "city_code": "031419"
+    },
+    {
+        "id": "104308002",
+        "name": "Alagatan",
+        "region_code": "10",
+        "province_code": "1043",
+        "city_code": "104308"
+    },
+    {
+        "id": "021516002",
+        "name": "Alaguia",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021516"
+    },
+    {
+        "id": "067902002",
+        "name": "Alaguisoc",
+        "region_code": "06",
+        "province_code": "0679",
+        "city_code": "067902"
+    },
+    {
+        "id": "083723001",
+        "name": "Alahag",
+        "region_code": "08",
+        "province_code": "0837",
+        "city_code": "083723"
+    },
+    {
+        "id": "063022005",
+        "name": "Alalasan Lapuz",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063022"
+    },
+    {
+        "id": "034916004",
+        "name": "Alalay Chica",
+        "region_code": "03",
+        "province_code": "0349",
+        "city_code": "034916"
+    },
+    {
+        "id": "034916005",
+        "name": "Alalay Grande",
+        "region_code": "03",
+        "province_code": "0349",
+        "city_code": "034916"
+    },
+    {
+        "id": "041026001",
+        "name": "Alalum",
+        "region_code": "04",
+        "province_code": "0410",
+        "city_code": "041026"
+    },
+    {
+        "id": "153812001",
+        "name": "Alamada",
+        "region_code": "15",
+        "province_code": "1538",
+        "city_code": "153812"
+    },
+    {
+        "id": "072205001",
+        "name": "Alambijud",
+        "region_code": "07",
+        "province_code": "0722",
+        "city_code": "072205"
+    },
+    {
+        "id": "166711001",
+        "name": "Alambique (Pob.)",
+        "region_code": "16",
+        "province_code": "1667",
+        "city_code": "166711"
+    },
+    {
+        "id": "112402003",
+        "name": "Alambre",
+        "region_code": "11",
+        "province_code": "1124",
+        "city_code": "112402"
+    },
+    {
+        "id": "063021001",
+        "name": "Alameda",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063021"
+    },
+    {
+        "id": "060410001",
+        "name": "Alaminos",
+        "region_code": "06",
+        "province_code": "0604",
+        "city_code": "060410"
+    },
+    {
+        "id": "082617045",
+        "name": "Alang-alang",
+        "region_code": "08",
+        "province_code": "0826",
+        "city_code": "082617"
+    },
+    {
+        "id": "082604001",
+        "name": "Alang-alang",
+        "region_code": "08",
+        "province_code": "0826",
+        "city_code": "082604"
+    },
+    {
+        "id": "084809001",
+        "name": "Alang-alang",
+        "region_code": "08",
+        "province_code": "0848",
+        "city_code": "084809"
+    },
+    {
+        "id": "082618023",
+        "name": "Alang-alang",
+        "region_code": "08",
+        "province_code": "0826",
+        "city_code": "082618"
+    },
+    {
+        "id": "082607001",
+        "name": "Alang-alang",
+        "region_code": "08",
+        "province_code": "0826",
+        "city_code": "082607"
+    },
+    {
+        "id": "097302002",
+        "name": "Alang-alang",
+        "region_code": "09",
+        "province_code": "0973",
+        "city_code": "097302"
+    },
+    {
+        "id": "097328001",
+        "name": "Alang-alang",
+        "region_code": "09",
+        "province_code": "0973",
+        "city_code": "097328"
+    },
+    {
+        "id": "072248001",
+        "name": "Alang-alang",
+        "region_code": "07",
+        "province_code": "0722",
+        "city_code": "072248"
+    },
+    {
+        "id": "072230001",
+        "name": "Alang-alang",
+        "region_code": "07",
+        "province_code": "0722",
+        "city_code": "072230"
+    },
+    {
+        "id": "166724001",
+        "name": "Alang-alang",
+        "region_code": "16",
+        "province_code": "1667",
+        "city_code": "166724"
+    },
+    {
+        "id": "025010023",
+        "name": "Alang-Salacsac",
+        "region_code": "02",
+        "province_code": "0250",
+        "city_code": "025010"
+    },
+    {
+        "id": "060616002",
+        "name": "Alangan",
+        "region_code": "06",
+        "province_code": "0606",
+        "city_code": "060616"
+    },
+    {
+        "id": "030806001",
+        "name": "Alangan",
+        "region_code": "03",
+        "province_code": "0308",
+        "city_code": "030806"
+    },
+    {
+        "id": "012912001",
+        "name": "Alangan",
+        "region_code": "01",
+        "province_code": "0129",
+        "city_code": "012912"
+    },
+    {
+        "id": "041005001",
+        "name": "Alangilan",
+        "region_code": "04",
+        "province_code": "0410",
+        "city_code": "041005"
+    },
+    {
+        "id": "041004001",
+        "name": "Alangilan",
+        "region_code": "04",
+        "province_code": "0410",
+        "city_code": "041004"
+    },
+    {
+        "id": "064501001",
+        "name": "Alangilan",
+        "region_code": "06",
+        "province_code": "0645",
+        "city_code": "064501"
+    },
+    {
+        "id": "083701001",
+        "name": "Alangilan",
+        "region_code": "08",
+        "province_code": "0837",
+        "city_code": "083701"
+    },
+    {
+        "id": "074618001",
+        "name": "Alangilan",
+        "region_code": "07",
+        "province_code": "0746",
+        "city_code": "074618"
+    },
+    {
+        "id": "101805001",
+        "name": "Alangilan",
+        "region_code": "10",
+        "province_code": "1018",
+        "city_code": "101805"
+    },
+    {
+        "id": "074615001",
+        "name": "Alangilanan",
+        "region_code": "07",
+        "province_code": "0746",
+        "city_code": "074615"
+    },
+    {
+        "id": "140126001",
+        "name": "Alangtin",
+        "region_code": "14",
+        "province_code": "1401",
+        "city_code": "140126"
+    },
+    {
+        "id": "101310001",
+        "name": "Alanib",
+        "region_code": "10",
+        "province_code": "1013",
+        "city_code": "101310"
+    },
+    {
+        "id": "021517002",
+        "name": "Alannay",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021517"
+    },
+    {
+        "id": "140125002",
+        "name": "Alaoa",
+        "region_code": "14",
+        "province_code": "1401",
+        "city_code": "140125"
+    },
+    {
+        "id": "042109001",
+        "name": "Alapan I-A",
+        "region_code": "04",
+        "province_code": "0421",
+        "city_code": "042109"
+    },
+    {
+        "id": "042109026",
+        "name": "Alapan I-B",
+        "region_code": "04",
+        "province_code": "0421",
+        "city_code": "042109"
+    },
+    {
+        "id": "042109027",
+        "name": "Alapan I-C",
+        "region_code": "04",
+        "province_code": "0421",
+        "city_code": "042109"
+    },
+    {
+        "id": "042109002",
+        "name": "Alapan II-A",
+        "region_code": "04",
+        "province_code": "0421",
+        "city_code": "042109"
+    },
+    {
+        "id": "042109028",
+        "name": "Alapan II-B",
+        "region_code": "04",
+        "province_code": "0421",
+        "city_code": "042109"
+    },
+    {
+        "id": "141110001",
+        "name": "Alapang",
+        "region_code": "14",
+        "province_code": "1411",
+        "city_code": "141110"
+    },
+    {
+        "id": "063009001",
+        "name": "Alapasco",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063009"
+    },
+    {
+        "id": "054110001",
+        "name": "Alas",
+        "region_code": "05",
+        "province_code": "0541",
+        "city_code": "054110"
+    },
+    {
+        "id": "060410002",
+        "name": "Alas-as",
+        "region_code": "06",
+        "province_code": "0604",
+        "city_code": "060410"
+    },
+    {
+        "id": "041025018",
+        "name": "Alas-as",
+        "region_code": "04",
+        "province_code": "0410",
+        "city_code": "041025"
+    },
+    {
+        "id": "030807001",
+        "name": "Alas-asin",
+        "region_code": "03",
+        "province_code": "0308",
+        "city_code": "030807"
+    },
+    {
+        "id": "061907002",
+        "name": "Alasaging",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061907"
+    },
+    {
+        "id": "035416001",
+        "name": "Alasas",
+        "region_code": "03",
+        "province_code": "0354",
+        "city_code": "035416"
+    },
+    {
+        "id": "013302001",
+        "name": "Alaska",
+        "region_code": "01",
+        "province_code": "0133",
+        "city_code": "013302"
+    },
+    {
+        "id": "156602001",
+        "name": "Alat",
+        "region_code": "15",
+        "province_code": "1566",
+        "city_code": "156602"
+    },
+    {
+        "id": "035412001",
+        "name": "Alauli",
+        "region_code": "03",
+        "province_code": "0354",
+        "city_code": "035412"
+    },
+    {
+        "id": "051603001",
+        "name": "Alawihao",
+        "region_code": "05",
+        "province_code": "0516",
+        "city_code": "051603"
+    },
+    {
+        "id": "072207001",
+        "name": "Alawijao",
+        "region_code": "07",
+        "province_code": "0722",
+        "city_code": "072207"
+    },
+    {
+        "id": "012803001",
+        "name": "Alay-Nangbabaan (Alay 15-B)",
+        "region_code": "01",
+        "province_code": "0128",
+        "city_code": "012803"
+    },
+    {
+        "id": "051602001",
+        "name": "Alayao",
+        "region_code": "05",
+        "province_code": "0516",
+        "city_code": "051602"
+    },
+    {
+        "id": "061907003",
+        "name": "Alayunan",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061907"
+    },
+    {
+        "id": "021506003",
+        "name": "Alba",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021506"
+    },
+    {
+        "id": "166818001",
+        "name": "Alba",
+        "region_code": "16",
+        "province_code": "1668",
+        "city_code": "166818"
+    },
+    {
+        "id": "126314001",
+        "name": "Albagan",
+        "region_code": "12",
+        "province_code": "1263",
+        "city_code": "126314"
+    },
+    {
+        "id": "086005001",
+        "name": "Albalate",
+        "region_code": "08",
+        "province_code": "0860",
+        "city_code": "086005"
+    },
+    {
+        "id": "012809001",
+        "name": "Albano (Pob.)",
+        "region_code": "01",
+        "province_code": "0128",
+        "city_code": "012809"
+    },
+    {
+        "id": "060416001",
+        "name": "Albasan",
+        "region_code": "06",
+        "province_code": "0604",
+        "city_code": "060416"
+    },
+    {
+        "id": "054107001",
+        "name": "Albasan",
+        "region_code": "05",
+        "province_code": "0541",
+        "city_code": "054107"
+    },
+    {
+        "id": "074619001",
+        "name": "Albiga",
+        "region_code": "07",
+        "province_code": "0746",
+        "city_code": "074619"
+    },
+    {
+        "id": "166723014",
+        "name": "Albino Taruc",
+        "region_code": "16",
+        "province_code": "1667",
+        "city_code": "166723"
+    },
+    {
+        "id": "168504001",
+        "name": "Albor (Pob.)",
+        "region_code": "16",
+        "province_code": "1685",
+        "city_code": "168504"
+    },
+    {
+        "id": "175202001",
+        "name": "Alcadesma",
+        "region_code": "17",
+        "province_code": "1752",
+        "city_code": "175202"
+    },
+    {
+        "id": "037707001",
+        "name": "Alcala",
+        "region_code": "03",
+        "province_code": "0377",
+        "city_code": "037707"
+    },
+    {
+        "id": "050503001",
+        "name": "Alcala",
+        "region_code": "05",
+        "province_code": "0505",
+        "city_code": "050503"
+    },
+    {
+        "id": "013310001",
+        "name": "Alcala (Pob.)",
+        "region_code": "01",
+        "province_code": "0133",
+        "city_code": "013310"
+    },
+    {
+        "id": "063027002",
+        "name": "Alcantara",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063027"
+    },
+    {
+        "id": "175215001",
+        "name": "Alcate",
+        "region_code": "17",
+        "province_code": "1752",
+        "city_code": "175215"
+    },
+    {
+        "id": "086020001",
+        "name": "Alcazar",
+        "region_code": "08",
+        "province_code": "0860",
+        "city_code": "086020"
+    },
+    {
+        "id": "175314001",
+        "name": "Alcoba",
+        "region_code": "17",
+        "province_code": "1753",
+        "city_code": "175314"
+    },
+    {
+        "id": "045646001",
+        "name": "Aldavoc",
+        "region_code": "04",
+        "province_code": "0456",
+        "city_code": "045646"
+    },
+    {
+        "id": "063044002",
+        "name": "Aldeguer",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063044"
+    },
+    {
+        "id": "051734001",
+        "name": "Aldezar",
+        "region_code": "05",
+        "province_code": "0517",
+        "city_code": "051734"
+    },
+    {
+        "id": "042123001",
+        "name": "Aldiano Olaes",
+        "region_code": "04",
+        "province_code": "0421",
+        "city_code": "042123"
+    },
+    {
+        "id": "060617001",
+        "name": "Alegre",
+        "region_code": "06",
+        "province_code": "0606",
+        "city_code": "060617"
+    },
+    {
+        "id": "060615003",
+        "name": "Alegre",
+        "region_code": "06",
+        "province_code": "0606",
+        "city_code": "060615"
+    },
+    {
+        "id": "063034003",
+        "name": "Alegre",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063034"
+    },
+    {
+        "id": "112401001",
+        "name": "Alegre",
+        "region_code": "11",
+        "province_code": "1124",
+        "city_code": "112401"
+    },
+    {
+        "id": "083718001",
+        "name": "Alegre",
+        "region_code": "08",
+        "province_code": "0837",
+        "city_code": "083718"
+    },
+    {
+        "id": "083725001",
+        "name": "Alegria",
+        "region_code": "08",
+        "province_code": "0837",
+        "city_code": "083725"
+    },
+    {
+        "id": "083738001",
+        "name": "Alegria",
+        "region_code": "08",
+        "province_code": "0837",
+        "city_code": "083738"
+    },
+    {
+        "id": "083707001",
+        "name": "Alegria",
+        "region_code": "08",
+        "province_code": "0837",
+        "city_code": "083707"
+    },
+    {
+        "id": "063016004",
+        "name": "Alegria",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063016"
+    },
+    {
+        "id": "067905001",
+        "name": "Alegria",
+        "region_code": "06",
+        "province_code": "0679",
+        "city_code": "067905"
+    },
+    {
+        "id": "064520002",
+        "name": "Alegria",
+        "region_code": "06",
+        "province_code": "0645",
+        "city_code": "064520"
+    },
+    {
+        "id": "086023001",
+        "name": "Alegria",
+        "region_code": "08",
+        "province_code": "0860",
+        "city_code": "086023"
+    },
+    {
+        "id": "087804001",
+        "name": "Alegria",
+        "region_code": "08",
+        "province_code": "0878",
+        "city_code": "087804"
+    },
+    {
+        "id": "084818001",
+        "name": "Alegria",
+        "region_code": "08",
+        "province_code": "0848",
+        "city_code": "084818"
+    },
+    {
+        "id": "097322001",
+        "name": "Alegria",
+        "region_code": "09",
+        "province_code": "0973",
+        "city_code": "097322"
+    },
+    {
+        "id": "086017001",
+        "name": "Alegria",
+        "region_code": "08",
+        "province_code": "0860",
+        "city_code": "086017"
+    },
+    {
+        "id": "097302003",
+        "name": "Alegria",
+        "region_code": "09",
+        "province_code": "0973",
+        "city_code": "097302"
+    },
+    {
+        "id": "097224001",
+        "name": "Alegria",
+        "region_code": "09",
+        "province_code": "0972",
+        "city_code": "097224"
+    },
+    {
+        "id": "166724002",
+        "name": "Alegria",
+        "region_code": "16",
+        "province_code": "1667",
+        "city_code": "166724"
+    },
+    {
+        "id": "166721002",
+        "name": "Alegria",
+        "region_code": "16",
+        "province_code": "1667",
+        "city_code": "166721"
+    },
+    {
+        "id": "166814001",
+        "name": "Alegria",
+        "region_code": "16",
+        "province_code": "1668",
+        "city_code": "166814"
+    },
+    {
+        "id": "160308001",
+        "name": "Alegria",
+        "region_code": "16",
+        "province_code": "1603",
+        "city_code": "160308"
+    },
+    {
+        "id": "124713001",
+        "name": "Alegria",
+        "region_code": "12",
+        "province_code": "1247",
+        "city_code": "124713"
+    },
+    {
+        "id": "128001001",
+        "name": "Alegria",
+        "region_code": "12",
+        "province_code": "1280",
+        "city_code": "128001"
+    },
+    {
+        "id": "112505002",
+        "name": "Alegria",
+        "region_code": "11",
+        "province_code": "1125",
+        "city_code": "112505"
+    },
+    {
+        "id": "104208001",
+        "name": "Alegria",
+        "region_code": "10",
+        "province_code": "1042",
+        "city_code": "104208"
+    },
+    {
+        "id": "098301001",
+        "name": "Alegria",
+        "region_code": "09",
+        "province_code": "0983",
+        "city_code": "098301"
+    },
+    {
+        "id": "103501001",
+        "name": "Alegria",
+        "region_code": "10",
+        "province_code": "1035",
+        "city_code": "103501"
+    },
+    {
+        "id": "072252001",
+        "name": "Alegria",
+        "region_code": "07",
+        "province_code": "0722",
+        "city_code": "072252"
+    },
+    {
+        "id": "071212001",
+        "name": "Alegria",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071212"
+    },
+    {
+        "id": "072220001",
+        "name": "Alegria",
+        "region_code": "07",
+        "province_code": "0722",
+        "city_code": "072220"
+    },
+    {
+        "id": "071213001",
+        "name": "Alegria",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071213"
+    },
+    {
+        "id": "071229002",
+        "name": "Alegria",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071229"
+    },
+    {
+        "id": "056202002",
+        "name": "Alegria",
+        "region_code": "05",
+        "province_code": "0562",
+        "city_code": "056202"
+    },
+    {
+        "id": "060614002",
+        "name": "Alegria",
+        "region_code": "06",
+        "province_code": "0606",
+        "city_code": "060614"
+    },
+    {
+        "id": "060605001",
+        "name": "Alegria",
+        "region_code": "06",
+        "province_code": "0606",
+        "city_code": "060605"
+    },
+    {
+        "id": "060405001",
+        "name": "Alegria",
+        "region_code": "06",
+        "province_code": "0604",
+        "city_code": "060405"
+    },
+    {
+        "id": "054116001",
+        "name": "Alegria",
+        "region_code": "05",
+        "province_code": "0541",
+        "city_code": "054116"
+    },
+    {
+        "id": "175906001",
+        "name": "Alegria",
+        "region_code": "17",
+        "province_code": "1759",
+        "city_code": "175906"
+    },
+    {
+        "id": "071228002",
+        "name": "Alegria Norte",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071228"
+    },
+    {
+        "id": "071228003",
+        "name": "Alegria Sur",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071228"
+    },
+    {
+        "id": "112303001",
+        "name": "Alejal",
+        "region_code": "11",
+        "province_code": "1123",
+        "city_code": "112303"
+    },
+    {
+        "id": "112402056",
+        "name": "Alejandra Navarro (Lasang)",
+        "region_code": "11",
+        "province_code": "1124",
+        "city_code": "112402"
+    },
+    {
+        "id": "084801001",
+        "name": "Alejandro Village (Santiago)",
+        "region_code": "08",
+        "province_code": "0848",
+        "city_code": "084801"
+    },
+    {
+        "id": "071225001",
+        "name": "Alejawan",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071225"
+    },
+    {
+        "id": "071221001",
+        "name": "Alejawan",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071221"
+    },
+    {
+        "id": "012823030",
+        "name": "Alejo Malasig",
+        "region_code": "01",
+        "province_code": "0128",
+        "city_code": "012823"
+    },
+    {
+        "id": "083707002",
+        "name": "Alejos",
+        "region_code": "08",
+        "province_code": "0837",
+        "city_code": "083707"
+    },
+    {
+        "id": "148106002",
+        "name": "Alem",
+        "region_code": "14",
+        "province_code": "1481",
+        "city_code": "148106"
+    },
+    {
+        "id": "071220002",
+        "name": "Alemania",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071220"
+    },
+    {
+        "id": "034918001",
+        "name": "Alemania",
+        "region_code": "03",
+        "province_code": "0349",
+        "city_code": "034918"
+    },
+    {
+        "id": "072234001",
+        "name": "Alfaco",
+        "region_code": "07",
+        "province_code": "0722",
+        "city_code": "072234"
+    },
+    {
+        "id": "036905001",
+        "name": "Alfonso",
+        "region_code": "03",
+        "province_code": "0369",
+        "city_code": "036905"
+    },
+    {
+        "id": "012910001",
+        "name": "Alfonso (Tangaoan)",
+        "region_code": "01",
+        "province_code": "0129",
+        "city_code": "012910"
+    },
+    {
+        "id": "112402197",
+        "name": "Alfonso Angliongto Sr.",
+        "region_code": "11",
+        "province_code": "1124",
+        "city_code": "112402"
+    },
+    {
+        "id": "141102136",
+        "name": "Alfonso Tabora",
+        "region_code": "14",
+        "province_code": "1411",
+        "city_code": "141102"
+    },
+    {
+        "id": "060409002",
+        "name": "Alfonso XII",
+        "region_code": "06",
+        "province_code": "0604",
+        "city_code": "060409"
+    },
+    {
+        "id": "175317001",
+        "name": "Alfonso XIII (Pob.)",
+        "region_code": "17",
+        "province_code": "1753",
+        "city_code": "175317"
+    },
+    {
+        "id": "101801001",
+        "name": "Alga",
+        "region_code": "10",
+        "province_code": "1018",
+        "city_code": "101801"
+    },
+    {
+        "id": "175302002",
+        "name": "Algeciras",
+        "region_code": "17",
+        "province_code": "1753",
+        "city_code": "175302"
+    },
+    {
+        "id": "098312020",
+        "name": "Ali Alsree",
+        "region_code": "09",
+        "province_code": "0983",
+        "city_code": "098312"
+    },
+    {
+        "id": "074606001",
+        "name": "Ali-is",
+        "region_code": "07",
+        "province_code": "0746",
+        "city_code": "074606"
+    },
+    {
+        "id": "025004003",
+        "name": "Aliaga",
+        "region_code": "02",
+        "province_code": "0250",
+        "city_code": "025004"
+    },
+    {
+        "id": "015524004",
+        "name": "Aliaga",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015524"
+    },
+    {
+        "id": "051732001",
+        "name": "Alianza",
+        "region_code": "05",
+        "province_code": "0517",
+        "city_code": "051732"
+    },
+    {
+        "id": "064502002",
+        "name": "Alianza",
+        "region_code": "06",
+        "province_code": "0645",
+        "city_code": "064502"
+    },
+    {
+        "id": "086003003",
+        "name": "Alibaba",
+        "region_code": "08",
+        "province_code": "0860",
+        "city_code": "086003"
+    },
+    {
+        "id": "023131001",
+        "name": "Alibadabad",
+        "region_code": "02",
+        "province_code": "0231",
+        "city_code": "023131"
+    },
+    {
+        "id": "015538001",
+        "name": "Alibago",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015538"
+    },
+    {
+        "id": "021512001",
+        "name": "Alibago (Villa Maria)",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021512"
+    },
+    {
+        "id": "175903001",
+        "name": "Alibagon",
+        "region_code": "17",
+        "province_code": "1759",
+        "city_code": "175903"
+    },
+    {
+        "id": "060411003",
+        "name": "Alibagon",
+        "region_code": "06",
+        "province_code": "0604",
+        "city_code": "060411"
+    },
+    {
+        "id": "023114003",
+        "name": "Alibagu",
+        "region_code": "02",
+        "province_code": "0231",
+        "city_code": "023114"
+    },
+    {
+        "id": "013304001",
+        "name": "Alibangsay",
+        "region_code": "01",
+        "province_code": "0133",
+        "city_code": "013304"
+    },
+    {
+        "id": "063044003",
+        "name": "Alibayog",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063044"
+    },
+    {
+        "id": "124706001",
+        "name": "Alibayon",
+        "region_code": "12",
+        "province_code": "1247",
+        "city_code": "124706"
+    },
+    {
+        "id": "015541002",
+        "name": "Alibeng",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015541"
+    },
+    {
+        "id": "045640001",
+        "name": "Alibihaban",
+        "region_code": "04",
+        "province_code": "0456",
+        "city_code": "045640"
+    },
+    {
+        "id": "175105001",
+        "name": "Alibog",
+        "region_code": "17",
+        "province_code": "1751",
+        "city_code": "175105"
+    },
+    {
+        "id": "052008002",
+        "name": "Alibuag",
+        "region_code": "05",
+        "province_code": "0520",
+        "city_code": "052008"
+    },
+    {
+        "id": "063013006",
+        "name": "Alibunan",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063013"
+    },
+    {
+        "id": "043417002",
+        "name": "Alibungbungan",
+        "region_code": "04",
+        "province_code": "0434",
+        "city_code": "043417"
+    },
+    {
+        "id": "064508002",
+        "name": "Alicante",
+        "region_code": "06",
+        "province_code": "0645",
+        "city_code": "064508"
+    },
+    {
+        "id": "023108001",
+        "name": "Alicaocao",
+        "region_code": "02",
+        "province_code": "0231",
+        "city_code": "023108"
+    },
+    {
+        "id": "025701018",
+        "name": "Alicia",
+        "region_code": "02",
+        "province_code": "0257",
+        "city_code": "025701"
+    },
+    {
+        "id": "097319001",
+        "name": "Alicia",
+        "region_code": "09",
+        "province_code": "0973",
+        "city_code": "097319"
+    },
+    {
+        "id": "137404001",
+        "name": "Alicia",
+        "region_code": "13",
+        "province_code": "1374",
+        "city_code": "137404"
+    },
+    {
+        "id": "104323001",
+        "name": "Alicomohan",
+        "region_code": "10",
+        "province_code": "1043",
+        "city_code": "104323"
+    },
+    {
+        "id": "071232003",
+        "name": "Aliguay",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071232"
+    },
+    {
+        "id": "097201001",
+        "name": "Aliguay",
+        "region_code": "09",
+        "province_code": "0972",
+        "city_code": "097201"
+    },
+    {
+        "id": "045646002",
+        "name": "Aliji",
+        "region_code": "04",
+        "province_code": "0456",
+        "city_code": "045646"
+    },
+    {
+        "id": "064501002",
+        "name": "Alijis",
+        "region_code": "06",
+        "province_code": "0645",
+        "city_code": "064501"
+    },
+    {
+        "id": "064530001",
+        "name": "Alijis",
+        "region_code": "06",
+        "province_code": "0645",
+        "city_code": "064530"
+    },
+    {
+        "id": "015519001",
+        "name": "Alilao",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015519"
+    },
+    {
+        "id": "012901001",
+        "name": "Alilem Daya (Pob.)",
+        "region_code": "01",
+        "province_code": "0129",
+        "city_code": "012901"
+    },
+    {
+        "id": "021510004",
+        "name": "Alilinu",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021510"
+    },
+    {
+        "id": "045623002",
+        "name": "Aliliw",
+        "region_code": "04",
+        "province_code": "0456",
+        "city_code": "045623"
+    },
+    {
+        "id": "064512001",
+        "name": "Alim",
+        "region_code": "06",
+        "province_code": "0645",
+        "city_code": "064512"
+    },
+    {
+        "id": "042103001",
+        "name": "Alima",
+        "region_code": "04",
+        "province_code": "0421",
+        "city_code": "042103"
+    },
+    {
+        "id": "021519002",
+        "name": "Alimanao",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021519"
+    },
+    {
+        "id": "064509001",
+        "name": "Alimango",
+        "region_code": "06",
+        "province_code": "0645",
+        "city_code": "064509"
+    },
+    {
+        "id": "175319001",
+        "name": "Alimanguan",
+        "region_code": "17",
+        "province_code": "1753",
+        "city_code": "175319"
+    },
+    {
+        "id": "060414001",
+        "name": "Alimbo-Baybay",
+        "region_code": "06",
+        "province_code": "0604",
+        "city_code": "060414"
+    },
+    {
+        "id": "051721001",
+        "name": "Alimbuyog",
+        "region_code": "05",
+        "province_code": "0517",
+        "city_code": "051721"
+    },
+    {
+        "id": "025009002",
+        "name": "Alimit",
+        "region_code": "02",
+        "province_code": "0250",
+        "city_code": "025009"
+    },
+    {
+        "id": "142706002",
+        "name": "Alimit",
+        "region_code": "14",
+        "province_code": "1427",
+        "city_code": "142706"
+    },
+    {
+        "id": "021511001",
+        "name": "Alimoan",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021511"
+    },
+    {
+        "id": "063030003",
+        "name": "Alimodias",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063030"
+    },
+    {
+        "id": "063035006",
+        "name": "Alimono",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063035"
+    },
+    {
+        "id": "050516001",
+        "name": "Alimsog",
+        "region_code": "05",
+        "province_code": "0505",
+        "city_code": "050516"
+    },
+    {
+        "id": "056207001",
+        "name": "Alin",
+        "region_code": "05",
+        "province_code": "0562",
+        "city_code": "056207"
+    },
+    {
+        "id": "012905001",
+        "name": "Alinaay",
+        "region_code": "01",
+        "province_code": "0129",
+        "city_code": "012905"
+    },
+    {
+        "id": "023108002",
+        "name": "Alinam",
+        "region_code": "02",
+        "province_code": "0231",
+        "city_code": "023108"
+    },
+    {
+        "id": "052007001",
+        "name": "Alinawan",
+        "region_code": "05",
+        "province_code": "0520",
+        "city_code": "052007"
+    },
+    {
+        "id": "140118001",
+        "name": "Alinaya",
+        "region_code": "14",
+        "province_code": "1401",
+        "city_code": "140118"
+    },
+    {
+        "id": "012925001",
+        "name": "Alincaoeg",
+        "region_code": "01",
+        "province_code": "0129",
+        "city_code": "012925"
+    },
+    {
+        "id": "097330001",
+        "name": "Alindahaw",
+        "region_code": "09",
+        "province_code": "0973",
+        "city_code": "097330"
+    },
+    {
+        "id": "042108001",
+        "name": "Alingaro",
+        "region_code": "04",
+        "province_code": "0421",
+        "city_code": "042108"
+    },
+    {
+        "id": "082609001",
+        "name": "Alingarog",
+        "region_code": "08",
+        "province_code": "0826",
+        "city_code": "082609"
+    },
+    {
+        "id": "015511001",
+        "name": "Alinggan",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015511"
+    },
+    {
+        "id": "063009002",
+        "name": "Alinsolong",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063009"
+    },
+    {
+        "id": "153625001",
+        "name": "Alinun",
+        "region_code": "15",
+        "province_code": "1536",
+        "city_code": "153625"
+    },
+    {
+        "id": "021501001",
+        "name": "Alinunu",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021501"
+    },
+    {
+        "id": "030807002",
+        "name": "Alion",
+        "region_code": "03",
+        "province_code": "0308",
+        "city_code": "030807"
+    },
+    {
+        "id": "153805001",
+        "name": "Alip (Pob.)",
+        "region_code": "15",
+        "province_code": "1538",
+        "city_code": "153805"
+    },
+    {
+        "id": "153618003",
+        "name": "Alip Lalabuan",
+        "region_code": "15",
+        "province_code": "1536",
+        "city_code": "153618"
+    },
+    {
+        "id": "013313001",
+        "name": "Alipang",
+        "region_code": "01",
+        "province_code": "0133",
+        "city_code": "013313"
+    },
+    {
+        "id": "015530001",
+        "name": "Alipangpang",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015530"
+    },
+    {
+        "id": "166701002",
+        "name": "Alipao",
+        "region_code": "16",
+        "province_code": "1667",
+        "city_code": "166701"
+    },
+    {
+        "id": "175107001",
+        "name": "Alipaoy",
+        "region_code": "17",
+        "province_code": "1751",
+        "city_code": "175107"
+    },
+    {
+        "id": "061904007",
+        "name": "Alipasiawan",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061904"
+    },
+    {
+        "id": "063014002",
+        "name": "Alipata",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063014"
+    },
+    {
+        "id": "043415001",
+        "name": "Alipit",
+        "region_code": "04",
+        "province_code": "0434",
+        "city_code": "043415"
+    },
+    {
+        "id": "043426001",
+        "name": "Alipit",
+        "region_code": "04",
+        "province_code": "0434",
+        "city_code": "043426"
+    },
+    {
+        "id": "104322001",
+        "name": "Alipuaton",
+        "region_code": "10",
+        "province_code": "1043",
+        "city_code": "104322"
+    },
+    {
+        "id": "060416002",
+        "name": "Aliputos",
+        "region_code": "06",
+        "province_code": "0604",
+        "city_code": "060416"
+    },
+    {
+        "id": "045647001",
+        "name": "Alitao",
+        "region_code": "04",
+        "province_code": "0456",
+        "city_code": "045647"
+    },
+    {
+        "id": "045627002",
+        "name": "Alitap",
+        "region_code": "04",
+        "province_code": "0456",
+        "city_code": "045627"
+    },
+    {
+        "id": "045620003",
+        "name": "Alitas",
+        "region_code": "04",
+        "province_code": "0456",
+        "city_code": "045620"
+    },
+    {
+        "id": "015526001",
+        "name": "Alitaya",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015526"
+    },
+    {
+        "id": "021504003",
+        "name": "Alitungtung",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021504"
+    },
+    {
+        "id": "112505003",
+        "name": "Aliwagwag",
+        "region_code": "11",
+        "province_code": "1125",
+        "city_code": "112505"
+    },
+    {
+        "id": "072208002",
+        "name": "Aliwanay",
+        "region_code": "07",
+        "province_code": "0722",
+        "city_code": "072208"
+    },
+    {
+        "id": "015522001",
+        "name": "Aliwekwek",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015522"
+    },
+    {
+        "id": "128007001",
+        "name": "Alkikan",
+        "region_code": "12",
+        "province_code": "1280",
+        "city_code": "128007"
+    },
+    {
+        "id": "124718001",
+        "name": "Allab",
+        "region_code": "12",
+        "province_code": "1247",
+        "city_code": "124718"
+    },
+    {
+        "id": "015501001",
+        "name": "Allabon",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015501"
+    },
+    {
+        "id": "143209002",
+        "name": "Allaguia",
+        "region_code": "14",
+        "province_code": "1432",
+        "city_code": "143209"
+    },
+    {
+        "id": "050508002",
+        "name": "Allang",
+        "region_code": "05",
+        "province_code": "0505",
+        "city_code": "050508"
+    },
+    {
+        "id": "023102001",
+        "name": "Allangigan",
+        "region_code": "02",
+        "province_code": "0231",
+        "city_code": "023102"
+    },
+    {
+        "id": "013316001",
+        "name": "Allangigan",
+        "region_code": "01",
+        "province_code": "0133",
+        "city_code": "013316"
+    },
+    {
+        "id": "148102001",
+        "name": "Allangigan",
+        "region_code": "14",
+        "province_code": "1481",
+        "city_code": "148102"
+    },
+    {
+        "id": "012906001",
+        "name": "Allangigan Primero",
+        "region_code": "01",
+        "province_code": "0129",
+        "city_code": "012906"
+    },
+    {
+        "id": "012906002",
+        "name": "Allangigan Segundo",
+        "region_code": "01",
+        "province_code": "0129",
+        "city_code": "012906"
+    },
+    {
+        "id": "021518002",
+        "name": "Allasitan",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021518"
+    },
+    {
+        "id": "051719001",
+        "name": "Alleomar",
+        "region_code": "05",
+        "province_code": "0517",
+        "city_code": "051719"
+    },
+    {
+        "id": "148103001",
+        "name": "Allig",
+        "region_code": "14",
+        "province_code": "1481",
+        "city_code": "148103"
+    },
+    {
+        "id": "023114004",
+        "name": "Allinguigan 1st",
+        "region_code": "02",
+        "province_code": "0231",
+        "city_code": "023114"
+    },
+    {
+        "id": "023114005",
+        "name": "Allinguigan 2nd",
+        "region_code": "02",
+        "province_code": "0231",
+        "city_code": "023114"
+    },
+    {
+        "id": "023114006",
+        "name": "Allinguigan 3rd",
+        "region_code": "02",
+        "province_code": "0231",
+        "city_code": "023114"
+    },
+    {
+        "id": "025009029",
+        "name": "Alloy",
+        "region_code": "02",
+        "province_code": "0250",
+        "city_code": "025009"
+    },
+    {
+        "id": "175206029",
+        "name": "Alma Villa",
+        "region_code": "17",
+        "province_code": "1752",
+        "city_code": "175206"
+    },
+    {
+        "id": "045649001",
+        "name": "Almacen",
+        "region_code": "04",
+        "province_code": "0456",
+        "city_code": "045649"
+    },
+    {
+        "id": "030805002",
+        "name": "Almacen",
+        "region_code": "03",
+        "province_code": "0308",
+        "city_code": "030805"
+    },
+    {
+        "id": "025004005",
+        "name": "Almaguer North",
+        "region_code": "02",
+        "province_code": "0250",
+        "city_code": "025004"
+    },
+    {
+        "id": "025004006",
+        "name": "Almaguer South",
+        "region_code": "02",
+        "province_code": "0250",
+        "city_code": "025004"
+    },
+    {
+        "id": "137601010",
+        "name": "Almanza Dos",
+        "region_code": "13",
+        "province_code": "1376",
+        "city_code": "137601"
+    },
+    {
+        "id": "137601001",
+        "name": "Almanza Uno",
+        "region_code": "13",
+        "province_code": "1376",
+        "city_code": "137601"
+    },
+    {
+        "id": "071203001",
+        "name": "Almaria",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071203"
+    },
+    {
+        "id": "063027003",
+        "name": "Almeñana",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063027"
+    },
+    {
+        "id": "112411001",
+        "name": "Almendras (Pob.)",
+        "region_code": "11",
+        "province_code": "1124",
+        "city_code": "112411"
+    },
+    {
+        "id": "056216002",
+        "name": "Almendras-Cogon (Pob.)",
+        "region_code": "05",
+        "province_code": "0562",
+        "city_code": "056216"
+    },
+    {
+        "id": "054109002",
+        "name": "Almero",
+        "region_code": "05",
+        "province_code": "0541",
+        "city_code": "054109"
+    },
+    {
+        "id": "013305028",
+        "name": "Almieda",
+        "region_code": "01",
+        "province_code": "0133",
+        "city_code": "013305"
+    },
+    {
+        "id": "054119001",
+        "name": "Almiñe",
+        "region_code": "05",
+        "province_code": "0541",
+        "city_code": "054119"
+    },
+    {
+        "id": "052010001",
+        "name": "Almojuela",
+        "region_code": "05",
+        "province_code": "0520",
+        "city_code": "052010"
+    },
+    {
+        "id": "050514002",
+        "name": "Alnay",
+        "region_code": "05",
+        "province_code": "0505",
+        "city_code": "050514"
+    },
+    {
+        "id": "141110002",
+        "name": "Alno",
+        "region_code": "14",
+        "province_code": "1411",
+        "city_code": "141110"
+    },
+    {
+        "id": "072235001",
+        "name": "Alo",
+        "region_code": "07",
+        "province_code": "0722",
+        "city_code": "072235"
+    },
+    {
+        "id": "015544002",
+        "name": "Alo-o",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015544"
+    },
+    {
+        "id": "174005001",
+        "name": "Alobo",
+        "region_code": "17",
+        "province_code": "1740",
+        "city_code": "174005"
+    },
+    {
+        "id": "050503002",
+        "name": "Alobo",
+        "region_code": "05",
+        "province_code": "0505",
+        "city_code": "050503"
+    },
+    {
+        "id": "153628001",
+        "name": "Alog",
+        "region_code": "15",
+        "province_code": "1536",
+        "city_code": "153628"
+    },
+    {
+        "id": "153612001",
+        "name": "Alog",
+        "region_code": "15",
+        "province_code": "1536",
+        "city_code": "153612"
+    },
+    {
+        "id": "082619002",
+        "name": "Alog",
+        "region_code": "08",
+        "province_code": "0826",
+        "city_code": "082619"
+    },
+    {
+        "id": "012803002",
+        "name": "Alogoog",
+        "region_code": "01",
+        "province_code": "0128",
+        "city_code": "012803"
+    },
+    {
+        "id": "071207001",
+        "name": "Aloja",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071207"
+    },
+    {
+        "id": "060606001",
+        "name": "Alojipan",
+        "region_code": "06",
+        "province_code": "0606",
+        "city_code": "060606"
+    },
+    {
+        "id": "015501002",
+        "name": "Aloleng",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015501"
+    },
+    {
+        "id": "023121015",
+        "name": "Alomanay",
+        "region_code": "02",
+        "province_code": "0231",
+        "city_code": "023121"
+    },
+    {
+        "id": "050514003",
+        "name": "Alomon",
+        "region_code": "05",
+        "province_code": "0505",
+        "city_code": "050514"
+    },
+    {
+        "id": "060618022",
+        "name": "Alon",
+        "region_code": "06",
+        "province_code": "0606",
+        "city_code": "060618"
+    },
+    {
+        "id": "045618002",
+        "name": "Aloneros",
+        "region_code": "04",
+        "province_code": "0456",
+        "city_code": "045618"
+    },
+    {
+        "id": "153836001",
+        "name": "Alonganan",
+        "region_code": "15",
+        "province_code": "1538",
+        "city_code": "153836"
+    },
+    {
+        "id": "153806001",
+        "name": "Alonganan",
+        "region_code": "15",
+        "province_code": "1538",
+        "city_code": "153806"
+    },
+    {
+        "id": "050507001",
+        "name": "Alongong",
+        "region_code": "05",
+        "province_code": "0505",
+        "city_code": "050507"
+    },
+    {
+        "id": "103516001",
+        "name": "Aloon",
+        "region_code": "10",
+        "province_code": "1035",
+        "city_code": "103516"
+    },
+    {
+        "id": "015503001",
+        "name": "Alos",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015503"
+    },
+    {
+        "id": "103517001",
+        "name": "Alowin",
+        "region_code": "10",
+        "province_code": "1035",
+        "city_code": "103517"
+    },
+    {
+        "id": "045647019",
+        "name": "Alsam Ibaba",
+        "region_code": "04",
+        "province_code": "0456",
+        "city_code": "045647"
+    },
+    {
+        "id": "045647025",
+        "name": "Alsam Ilaya",
+        "region_code": "04",
+        "province_code": "0456",
+        "city_code": "045647"
+    },
+    {
+        "id": "012823003",
+        "name": "Alsem",
+        "region_code": "01",
+        "province_code": "0128",
+        "city_code": "012823"
+    },
+    {
+        "id": "083738108",
+        "name": "Alta Vista",
+        "region_code": "08",
+        "province_code": "0837",
+        "city_code": "083738"
+    },
+    {
+        "id": "112401002",
+        "name": "Alta Vista",
+        "region_code": "11",
+        "province_code": "1124",
+        "city_code": "112401"
+    },
+    {
+        "id": "083708001",
+        "name": "Altavista",
+        "region_code": "08",
+        "province_code": "0837",
+        "city_code": "083708"
+    },
+    {
+        "id": "083734002",
+        "name": "Altavista",
+        "region_code": "08",
+        "province_code": "0837",
+        "city_code": "083734"
+    },
+    {
+        "id": "072238002",
+        "name": "Altavista",
+        "region_code": "07",
+        "province_code": "0722",
+        "city_code": "072238"
+    },
+    {
+        "id": "054118001",
+        "name": "Altavista",
+        "region_code": "05",
+        "province_code": "0541",
+        "city_code": "054118"
+    },
+    {
+        "id": "051734002",
+        "name": "Alteza",
+        "region_code": "05",
+        "province_code": "0517",
+        "city_code": "051734"
+    },
+    {
+        "id": "041031001",
+        "name": "Altura Bata",
+        "region_code": "04",
+        "province_code": "0410",
+        "city_code": "041031"
+    },
+    {
+        "id": "041031002",
+        "name": "Altura Matanda",
+        "region_code": "04",
+        "province_code": "0410",
+        "city_code": "041031"
+    },
+    {
+        "id": "041031003",
+        "name": "Altura-South",
+        "region_code": "04",
+        "province_code": "0410",
+        "city_code": "041031"
+    },
+    {
+        "id": "156608001",
+        "name": "Alu Bunah",
+        "region_code": "15",
+        "province_code": "1566",
+        "city_code": "156608"
+    },
+    {
+        "id": "156617001",
+        "name": "Alu Bus-Bus",
+        "region_code": "15",
+        "province_code": "1566",
+        "city_code": "156617"
+    },
+    {
+        "id": "156609024",
+        "name": "Alu Layag-Layag",
+        "region_code": "15",
+        "province_code": "1566",
+        "city_code": "156609"
+    },
+    {
+        "id": "156609002",
+        "name": "Alu Pangkoh",
+        "region_code": "15",
+        "province_code": "1566",
+        "city_code": "156609"
+    },
+    {
+        "id": "156617002",
+        "name": "Alu-Duyong",
+        "region_code": "15",
+        "province_code": "1566",
+        "city_code": "156617"
+    },
+    {
+        "id": "156614013",
+        "name": "Alu-Kabingaan",
+        "region_code": "15",
+        "province_code": "1566",
+        "city_code": "156614"
+    },
+    {
+        "id": "034925001",
+        "name": "Alua",
+        "region_code": "03",
+        "province_code": "0349",
+        "city_code": "034925"
+    },
+    {
+        "id": "160201003",
+        "name": "Alubijid",
+        "region_code": "16",
+        "province_code": "1602",
+        "city_code": "160201"
+    },
+    {
+        "id": "021525001",
+        "name": "Alucao",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021525"
+    },
+    {
+        "id": "021508025",
+        "name": "Alucao Weste (San Lorenzo*)",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021508"
+    },
+    {
+        "id": "013316002",
+        "name": "Aludaid",
+        "region_code": "01",
+        "province_code": "0133",
+        "city_code": "013316"
+    },
+    {
+        "id": "101302001",
+        "name": "Aludas",
+        "region_code": "10",
+        "province_code": "1013",
+        "city_code": "101302"
+    },
+    {
+        "id": "082621001",
+        "name": "Alugan",
+        "region_code": "08",
+        "province_code": "0826",
+        "city_code": "082621"
+    },
+    {
+        "id": "063025003",
+        "name": "Alugmawa",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063025"
+    },
+    {
+        "id": "034931002",
+        "name": "Alula",
+        "region_code": "03",
+        "province_code": "0349",
+        "city_code": "034931"
+    },
+    {
+        "id": "012908001",
+        "name": "Aluling",
+        "region_code": "01",
+        "province_code": "0129",
+        "city_code": "012908"
+    },
+    {
+        "id": "042110002",
+        "name": "Alulod",
+        "region_code": "04",
+        "province_code": "0421",
+        "city_code": "042110"
+    },
+    {
+        "id": "071226001",
+        "name": "Alumar",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071226"
+    },
+    {
+        "id": "043417003",
+        "name": "Alumbrado",
+        "region_code": "04",
+        "province_code": "0434",
+        "city_code": "043417"
+    },
+    {
+        "id": "153618004",
+        "name": "Alumpang Paino Mimbalay",
+        "region_code": "15",
+        "province_code": "1536",
+        "city_code": "153618"
+    },
+    {
+        "id": "104310001",
+        "name": "Aluna",
+        "region_code": "10",
+        "province_code": "1043",
+        "city_code": "104310"
+    },
+    {
+        "id": "023122002",
+        "name": "Alunan (Pob.)",
+        "region_code": "02",
+        "province_code": "0231",
+        "city_code": "023122"
+    },
+    {
+        "id": "144405001",
+        "name": "Alunogan",
+        "region_code": "14",
+        "province_code": "1444",
+        "city_code": "144405"
+    },
+    {
+        "id": "041021001",
+        "name": "Alupay",
+        "region_code": "04",
+        "province_code": "0410",
+        "city_code": "041021"
+    },
+    {
+        "id": "045647002",
+        "name": "Alupay",
+        "region_code": "04",
+        "province_code": "0456",
+        "city_code": "045647"
+    },
+    {
+        "id": "045639001",
+        "name": "Alupay",
+        "region_code": "04",
+        "province_code": "0456",
+        "city_code": "045639"
+    },
+    {
+        "id": "045630001",
+        "name": "Alupaye",
+        "region_code": "04",
+        "province_code": "0456",
+        "city_code": "045630"
+    },
+    {
+        "id": "063045001",
+        "name": "Alupidian",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063045"
+    },
+    {
+        "id": "037112001",
+        "name": "Alusiis",
+        "region_code": "03",
+        "province_code": "0371",
+        "city_code": "037112"
+    },
+    {
+        "id": "045606001",
+        "name": "Aluyon",
+        "region_code": "04",
+        "province_code": "0456",
+        "city_code": "045606"
+    },
+    {
+        "id": "060612001",
+        "name": "Alvañiz",
+        "region_code": "06",
+        "province_code": "0606",
+        "city_code": "060612"
+    },
+    {
+        "id": "112504001",
+        "name": "Alvar",
+        "region_code": "11",
+        "province_code": "1125",
+        "city_code": "112504"
+    },
+    {
+        "id": "097208001",
+        "name": "Alvenda",
+        "region_code": "09",
+        "province_code": "0972",
+        "city_code": "097208"
+    },
+    {
+        "id": "036916003",
+        "name": "Alvindia Segundo",
+        "region_code": "03",
+        "province_code": "0369",
+        "city_code": "036916"
+    },
+    {
+        "id": "037108001",
+        "name": "Alwa",
+        "region_code": "03",
+        "province_code": "0371",
+        "city_code": "037108"
+    },
+    {
+        "id": "013306002",
+        "name": "Alzate",
+        "region_code": "01",
+        "province_code": "0133",
+        "city_code": "013306"
+    },
+    {
+        "id": "124706048",
+        "name": "Amabel",
+        "region_code": "12",
+        "province_code": "1247",
+        "city_code": "124706"
+    },
+    {
+        "id": "015524005",
+        "name": "Amacalan",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015524"
+    },
+    {
+        "id": "036906002",
+        "name": "Amacalan",
+        "region_code": "03",
+        "province_code": "0369",
+        "city_code": "036906"
+    },
+    {
+        "id": "148106022",
+        "name": "Amado",
+        "region_code": "14",
+        "province_code": "1481",
+        "city_code": "148106"
+    },
+    {
+        "id": "166802001",
+        "name": "Amag",
+        "region_code": "16",
+        "province_code": "1668",
+        "city_code": "166802"
+    },
+    {
+        "id": "166801001",
+        "name": "Amaga",
+        "region_code": "16",
+        "province_code": "1668",
+        "city_code": "166801"
+    },
+    {
+        "id": "086406001",
+        "name": "Amaga",
+        "region_code": "08",
+        "province_code": "0864",
+        "city_code": "086406"
+    },
+    {
+        "id": "086404001",
+        "name": "Amaga",
+        "region_code": "08",
+        "province_code": "0864",
+        "city_code": "086404"
+    },
+    {
+        "id": "045632001",
+        "name": "Amaga",
+        "region_code": "04",
+        "province_code": "0456",
+        "city_code": "045632"
+    },
+    {
+        "id": "061916002",
+        "name": "Amaga",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061916"
+    },
+    {
+        "id": "015541003",
+        "name": "Amagbagan",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015541"
+    },
+    {
+        "id": "015530002",
+        "name": "Amagbagan",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015530"
+    },
+    {
+        "id": "037110001",
+        "name": "Amagna (Pob.)",
+        "region_code": "03",
+        "province_code": "0371",
+        "city_code": "037110"
+    },
+    {
+        "id": "083707003",
+        "name": "Amagos",
+        "region_code": "08",
+        "province_code": "0837",
+        "city_code": "083707"
+    },
+    {
+        "id": "086401001",
+        "name": "Amagusan",
+        "region_code": "08",
+        "province_code": "0864",
+        "city_code": "086401"
+    },
+    {
+        "id": "083706002",
+        "name": "Amahit",
+        "region_code": "08",
+        "province_code": "0837",
+        "city_code": "083706"
+    },
+    {
+        "id": "015519002",
+        "name": "Amalbalan",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015519"
+    },
+    {
+        "id": "013320001",
+        "name": "Amallapay",
+        "region_code": "01",
+        "province_code": "0133",
+        "city_code": "013320"
+    },
+    {
+        "id": "150711001",
+        "name": "Amaloy",
+        "region_code": "15",
+        "province_code": "1507",
+        "city_code": "150711"
+    },
+    {
+        "id": "063037002",
+        "name": "Amamaros",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063037"
+    },
+    {
+        "id": "086010001",
+        "name": "Amambucale",
+        "region_code": "08",
+        "province_code": "0860",
+        "city_code": "086010"
+    },
+    {
+        "id": "086003004",
+        "name": "Amampacang",
+        "region_code": "08",
+        "province_code": "0860",
+        "city_code": "086003"
+    },
+    {
+        "id": "015511002",
+        "name": "Amamperez",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015511"
+    },
+    {
+        "id": "015547001",
+        "name": "Amamperez",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015547"
+    },
+    {
+        "id": "072216002",
+        "name": "Amancion",
+        "region_code": "07",
+        "province_code": "0722",
+        "city_code": "072216"
+    },
+    {
+        "id": "015513001",
+        "name": "Amancoro",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015513"
+    },
+    {
+        "id": "015511003",
+        "name": "Amancosiling Norte",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015511"
+    },
+    {
+        "id": "015511004",
+        "name": "Amancosiling Sur",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015511"
+    },
+    {
+        "id": "083746001",
+        "name": "Amandangay",
+        "region_code": "08",
+        "province_code": "0837",
+        "city_code": "083746"
+    },
+    {
+        "id": "086002001",
+        "name": "Amandayehan",
+        "region_code": "08",
+        "province_code": "0860",
+        "city_code": "086002"
+    },
+    {
+        "id": "015503002",
+        "name": "Amandiego",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015503"
+    },
+    {
+        "id": "015503003",
+        "name": "Amangbangan",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015503"
+    },
+    {
+        "id": "083748002",
+        "name": "Amanluran",
+        "region_code": "08",
+        "province_code": "0837",
+        "city_code": "083748"
+    },
+    {
+        "id": "015528001",
+        "name": "Amanoaoac",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015528"
+    },
+    {
+        "id": "015526002",
+        "name": "Amansabina",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015526"
+    },
+    {
+        "id": "082604002",
+        "name": "Amantacop",
+        "region_code": "08",
+        "province_code": "0826",
+        "city_code": "082604"
+    },
+    {
+        "id": "086010015",
+        "name": "Amantillo",
+        "region_code": "08",
+        "province_code": "0860",
+        "city_code": "086010"
+    },
+    {
+        "id": "060617002",
+        "name": "Amar",
+        "region_code": "06",
+        "province_code": "0606",
+        "city_code": "060617"
+    },
+    {
+        "id": "012924001",
+        "name": "Amarao",
+        "region_code": "01",
+        "province_code": "0129",
+        "city_code": "012924"
+    },
+    {
+        "id": "015544003",
+        "name": "Amaronan",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015544"
+    },
+    {
+        "id": "175306001",
+        "name": "Amas",
+        "region_code": "17",
+        "province_code": "1753",
+        "city_code": "175306"
+    },
+    {
+        "id": "124704001",
+        "name": "Amas",
+        "region_code": "12",
+        "province_code": "1247",
+        "city_code": "124704"
+    },
+    {
+        "id": "175909002",
+        "name": "Amatong",
+        "region_code": "17",
+        "province_code": "1759",
+        "city_code": "175909"
+    },
+    {
+        "id": "072252002",
+        "name": "Amatugan",
+        "region_code": "07",
+        "province_code": "0722",
+        "city_code": "072252"
+    },
+    {
+        "id": "042120001",
+        "name": "Amaya I",
+        "region_code": "04",
+        "province_code": "0421",
+        "city_code": "042120"
+    },
+    {
+        "id": "042120028",
+        "name": "Amaya II",
+        "region_code": "04",
+        "province_code": "0421",
+        "city_code": "042120"
+    },
+    {
+        "id": "042120029",
+        "name": "Amaya III",
+        "region_code": "04",
+        "province_code": "0421",
+        "city_code": "042120"
+    },
+    {
+        "id": "042120030",
+        "name": "Amaya IV",
+        "region_code": "04",
+        "province_code": "0421",
+        "city_code": "042120"
+    },
+    {
+        "id": "042120031",
+        "name": "Amaya V",
+        "region_code": "04",
+        "province_code": "0421",
+        "city_code": "042120"
+    },
+    {
+        "id": "042120032",
+        "name": "Amaya VI",
+        "region_code": "04",
+        "province_code": "0421",
+        "city_code": "042120"
+    },
+    {
+        "id": "042120033",
+        "name": "Amaya VII",
+        "region_code": "04",
+        "province_code": "0421",
+        "city_code": "042120"
+    },
+    {
+        "id": "064520003",
+        "name": "Amayco",
+        "region_code": "06",
+        "province_code": "0645",
+        "city_code": "064520"
+    },
+    {
+        "id": "063038002",
+        "name": "Amayong",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063038"
+    },
+    {
+        "id": "124704002",
+        "name": "Amazion",
+        "region_code": "12",
+        "province_code": "1247",
+        "city_code": "124704"
+    },
+    {
+        "id": "015508001",
+        "name": "Ambabaay",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015508"
+    },
+    {
+        "id": "142703001",
+        "name": "Ambabag",
+        "region_code": "14",
+        "province_code": "1427",
+        "city_code": "142703"
+    },
+    {
+        "id": "083708002",
+        "name": "Ambacan",
+        "region_code": "08",
+        "province_code": "0837",
+        "city_code": "083708"
+    },
+    {
+        "id": "086403001",
+        "name": "Ambacon",
+        "region_code": "08",
+        "province_code": "0864",
+        "city_code": "086403"
+    },
+    {
+        "id": "160207001",
+        "name": "Ambacon",
+        "region_code": "16",
+        "province_code": "1602",
+        "city_code": "160207"
+    },
+    {
+        "id": "153806002",
+        "name": "Ambadao",
+        "region_code": "15",
+        "province_code": "1538",
+        "city_code": "153806"
+    },
+    {
+        "id": "160202004",
+        "name": "Ambago",
+        "region_code": "16",
+        "province_code": "1602",
+        "city_code": "160202"
+    },
+    {
+        "id": "144403002",
+        "name": "Ambaguio",
+        "region_code": "14",
+        "province_code": "1444",
+        "city_code": "144403"
+    },
+    {
+        "id": "015533001",
+        "name": "Ambalangan-Dalin",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015533"
+    },
+    {
+        "id": "023135002",
+        "name": "Ambalatungan",
+        "region_code": "02",
+        "province_code": "0231",
+        "city_code": "023135"
+    },
+    {
+        "id": "012933002",
+        "name": "Ambalayat",
+        "region_code": "01",
+        "province_code": "0129",
+        "city_code": "012933"
+    },
+    {
+        "id": "126318001",
+        "name": "Ambalgan",
+        "region_code": "12",
+        "province_code": "1263",
+        "city_code": "126318"
+    },
+    {
+        "id": "036908001",
+        "name": "Ambalingit",
+        "region_code": "03",
+        "province_code": "0369",
+        "city_code": "036908"
+    },
+    {
+        "id": "013312001",
+        "name": "Ambalite",
+        "region_code": "01",
+        "province_code": "0133",
+        "city_code": "013312"
+    },
+    {
+        "id": "013313002",
+        "name": "Ambangonan",
+        "region_code": "01",
+        "province_code": "0133",
+        "city_code": "013313"
+    },
+    {
+        "id": "013312002",
+        "name": "Ambangonan",
+        "region_code": "01",
+        "province_code": "0133",
+        "city_code": "013312"
+    },
+    {
+        "id": "086404002",
+        "name": "Ambao",
+        "region_code": "08",
+        "province_code": "0864",
+        "city_code": "086404"
+    },
+    {
+        "id": "013311004",
+        "name": "Ambaracao Norte",
+        "region_code": "01",
+        "province_code": "0133",
+        "city_code": "013311"
+    },
+    {
+        "id": "013311005",
+        "name": "Ambaracao Sur",
+        "region_code": "01",
+        "province_code": "0133",
+        "city_code": "013311"
+    },
+    {
+        "id": "063046003",
+        "name": "Ambarihon",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063046"
+    },
+    {
+        "id": "142705002",
+        "name": "Ambasa",
+        "region_code": "14",
+        "province_code": "1427",
+        "city_code": "142705"
+    },
+    {
+        "id": "034918002",
+        "name": "Ambasador Alzate Village",
+        "region_code": "03",
+        "province_code": "0349",
+        "city_code": "034918"
+    },
+    {
+        "id": "144409003",
+        "name": "Ambasing",
+        "region_code": "14",
+        "province_code": "1444",
+        "city_code": "144409"
+    },
+    {
+        "id": "141114001",
+        "name": "Ambassador",
+        "region_code": "14",
+        "province_code": "1411",
+        "city_code": "141114"
+    },
+    {
+        "id": "023124001",
+        "name": "Ambatali",
+        "region_code": "02",
+        "province_code": "0231",
+        "city_code": "023124"
+    },
+    {
+        "id": "143215001",
+        "name": "Ambato Legleg",
+        "region_code": "14",
+        "province_code": "1432",
+        "city_code": "143215"
+    },
+    {
+        "id": "015511005",
+        "name": "Ambayat I",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015511"
+    },
+    {
+        "id": "015511006",
+        "name": "Ambayat II",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015511"
+    },
+    {
+        "id": "175103002",
+        "name": "Ambil",
+        "region_code": "17",
+        "province_code": "1751",
+        "city_code": "175103"
+    },
+    {
+        "id": "061910004",
+        "name": "Ambilay",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061910"
+    },
+    {
+        "id": "141110003",
+        "name": "Ambiong",
+        "region_code": "14",
+        "province_code": "1411",
+        "city_code": "141110"
+    },
+    {
+        "id": "141102126",
+        "name": "Ambiong",
+        "region_code": "14",
+        "province_code": "1411",
+        "city_code": "141102"
+    },
+    {
+        "id": "013317001",
+        "name": "Ambitacay",
+        "region_code": "01",
+        "province_code": "0133",
+        "city_code": "013317"
+    },
+    {
+        "id": "013301001",
+        "name": "Ambitacay",
+        "region_code": "01",
+        "province_code": "0133",
+        "city_code": "013301"
+    },
+    {
+        "id": "153807001",
+        "name": "Ambolodto",
+        "region_code": "15",
+        "province_code": "1538",
+        "city_code": "153807"
+    },
+    {
+        "id": "153617001",
+        "name": "Ambolong",
+        "region_code": "15",
+        "province_code": "1536",
+        "city_code": "153617"
+    },
+    {
+        "id": "060404001",
+        "name": "Ambolong",
+        "region_code": "06",
+        "province_code": "0604",
+        "city_code": "060404"
+    },
+    {
+        "id": "054101001",
+        "name": "Ambolong",
+        "region_code": "05",
+        "province_code": "0541",
+        "city_code": "054101"
+    },
+    {
+        "id": "015517001",
+        "name": "Ambonao",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015517"
+    },
+    {
+        "id": "141114002",
+        "name": "Ambongdolan",
+        "region_code": "14",
+        "province_code": "1411",
+        "city_code": "141114"
+    },
+    {
+        "id": "063040001",
+        "name": "Amboyu-an",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063040"
+    },
+    {
+        "id": "071213002",
+        "name": "Ambuan",
+        "region_code": "07",
+        "province_code": "0712",
+        "city_code": "071213"
+    },
+    {
+        "id": "012927002",
+        "name": "Ambucao",
+        "region_code": "01",
+        "province_code": "0129",
+        "city_code": "012927"
+    },
+    {
+        "id": "141104001",
+        "name": "Ambuclao",
+        "region_code": "14",
+        "province_code": "1411",
+        "city_code": "141104"
+    },
+    {
+        "id": "015517002",
+        "name": "Ambuetel",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015517"
+    },
+    {
+        "id": "012904001",
+        "name": "Ambugat",
+        "region_code": "01",
+        "province_code": "0129",
+        "city_code": "012904"
+    },
+    {
+        "id": "012914002",
+        "name": "Ambulogan",
+        "region_code": "01",
+        "province_code": "0129",
+        "city_code": "012914"
+    },
+    {
+        "id": "097341014",
+        "name": "Ambulon",
+        "region_code": "09",
+        "province_code": "0973",
+        "city_code": "097341"
+    },
+    {
+        "id": "063028004",
+        "name": "Ambulong",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063028"
+    },
+    {
+        "id": "175110001",
+        "name": "Ambulong",
+        "region_code": "17",
+        "province_code": "1751",
+        "city_code": "175110"
+    },
+    {
+        "id": "041031004",
+        "name": "Ambulong",
+        "region_code": "04",
+        "province_code": "0410",
+        "city_code": "041031"
+    },
+    {
+        "id": "175908003",
+        "name": "Ambulong",
+        "region_code": "17",
+        "province_code": "1759",
+        "city_code": "175908"
+    },
+    {
+        "id": "175906002",
+        "name": "Ambulong",
+        "region_code": "17",
+        "province_code": "1759",
+        "city_code": "175906"
+    },
+    {
+        "id": "157011001",
+        "name": "Ambulong Sapal",
+        "region_code": "15",
+        "province_code": "1570",
+        "city_code": "157011"
+    },
+    {
+        "id": "142711001",
+        "name": "Amduntog",
+        "region_code": "14",
+        "province_code": "1427",
+        "city_code": "142711"
+    },
+    {
+        "id": "074602001",
+        "name": "Amdus",
+        "region_code": "07",
+        "province_code": "0746",
+        "city_code": "074602"
+    },
+    {
+        "id": "061912003",
+        "name": "Ameligan",
+        "region_code": "06",
+        "province_code": "0619",
+        "city_code": "061912"
+    },
+    {
+        "id": "063029005",
+        "name": "Amerang",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063029"
+    },
+    {
+        "id": "063012002",
+        "name": "Amerang",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063012"
+    },
+    {
+        "id": "141105002",
+        "name": "Amgaleyguey",
+        "region_code": "14",
+        "province_code": "1411",
+        "city_code": "141105"
+    },
+    {
+        "id": "142701001",
+        "name": "Amganad",
+        "region_code": "14",
+        "province_code": "1427",
+        "city_code": "142701"
+    },
+    {
+        "id": "083708003",
+        "name": "Amguhan",
+        "region_code": "08",
+        "province_code": "0837",
+        "city_code": "083708"
+    },
+    {
+        "id": "012906003",
+        "name": "Amguid",
+        "region_code": "01",
+        "province_code": "0129",
+        "city_code": "012906"
+    },
+    {
+        "id": "137404002",
+        "name": "Amihan",
+        "region_code": "13",
+        "province_code": "1374",
+        "city_code": "137404"
+    },
+    {
+        "id": "025010002",
+        "name": "Amilong Labeng",
+        "region_code": "02",
+        "province_code": "0250",
+        "city_code": "025010"
+    },
+    {
+        "id": "012901002",
+        "name": "Amilongan",
+        "region_code": "01",
+        "province_code": "0129",
+        "city_code": "012901"
+    },
+    {
+        "id": "064514001",
+        "name": "Amin",
+        "region_code": "06",
+        "province_code": "0645",
+        "city_code": "064514"
+    },
+    {
+        "id": "074618002",
+        "name": "Amio",
+        "region_code": "07",
+        "province_code": "0746",
+        "city_code": "074618"
+    },
+    {
+        "id": "063031003",
+        "name": "Amiroy",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063031"
+    },
+    {
+        "id": "023101001",
+        "name": "Amistad",
+        "region_code": "02",
+        "province_code": "0231",
+        "city_code": "023101"
+    },
+    {
+        "id": "015543002",
+        "name": "Amistad",
+        "region_code": "01",
+        "province_code": "0155",
+        "city_code": "015543"
+    },
+    {
+        "id": "153617069",
+        "name": "Amito Marantao",
+        "region_code": "15",
+        "province_code": "1536",
+        "city_code": "153617"
+    },
+    {
+        "id": "013313003",
+        "name": "Amlang",
+        "region_code": "01",
+        "province_code": "0133",
+        "city_code": "013313"
+    },
+    {
+        "id": "143213002",
+        "name": "Amlao",
+        "region_code": "14",
+        "province_code": "1432",
+        "city_code": "143213"
+    },
+    {
+        "id": "141105003",
+        "name": "Amlimay",
+        "region_code": "14",
+        "province_code": "1411",
+        "city_code": "141105"
+    },
+    {
+        "id": "051705005",
+        "name": "Amlongan (Del Rosario)",
+        "region_code": "05",
+        "province_code": "0517",
+        "city_code": "051705"
+    },
+    {
+        "id": "143209003",
+        "name": "Ammacian",
+        "region_code": "14",
+        "province_code": "1432",
+        "city_code": "143209"
+    },
+    {
+        "id": "021507001",
+        "name": "Ammubuan",
+        "region_code": "02",
+        "province_code": "0215",
+        "city_code": "021507"
+    },
+    {
+        "id": "025001001",
+        "name": "Ammueg",
+        "region_code": "02",
+        "province_code": "0250",
+        "city_code": "025001"
+    },
+    {
+        "id": "023136001",
+        "name": "Ammugauan",
+        "region_code": "02",
+        "province_code": "0231",
+        "city_code": "023136"
+    },
+    {
+        "id": "023108003",
+        "name": "Amobocan",
+        "region_code": "02",
+        "province_code": "0231",
+        "city_code": "023108"
+    },
+    {
+        "id": "050514004",
+        "name": "Amoguis",
+        "region_code": "05",
+        "province_code": "0505",
+        "city_code": "050514"
+    },
+    {
+        "id": "051717003",
+        "name": "Amoguis",
+        "region_code": "05",
+        "province_code": "0517",
+        "city_code": "051717"
+    },
+    {
+        "id": "174001003",
+        "name": "Amoingon",
+        "region_code": "17",
+        "province_code": "1740",
+        "city_code": "174001"
+    },
+    {
+        "id": "045620004",
+        "name": "Amolongin",
+        "region_code": "04",
+        "province_code": "0456",
+        "city_code": "045620"
+    },
+    {
+        "id": "051730003",
+        "name": "Amomokpok",
+        "region_code": "05",
+        "province_code": "0517",
+        "city_code": "051730"
+    },
+    {
+        "id": "056206001",
+        "name": "Amomonting",
+        "region_code": "05",
+        "province_code": "0562",
+        "city_code": "056206"
+    },
+    {
+        "id": "043416001",
+        "name": "Amonoy",
+        "region_code": "04",
+        "province_code": "0434",
+        "city_code": "043416"
+    },
+    {
+        "id": "045634001",
+        "name": "Amontay",
+        "region_code": "04",
+        "province_code": "0456",
+        "city_code": "045634"
+    },
+    {
+        "id": "045625001",
+        "name": "Amontay",
+        "region_code": "04",
+        "province_code": "0456",
+        "city_code": "045625"
+    },
+    {
+        "id": "064503001",
+        "name": "Amontay",
+        "region_code": "06",
+        "province_code": "0645",
+        "city_code": "064503"
+    },
+    {
+        "id": "166814002",
+        "name": "Amontay",
+        "region_code": "16",
+        "province_code": "1668",
+        "city_code": "166814"
+    },
+    {
+        "id": "166719001",
+        "name": "Amontay",
+        "region_code": "16",
+        "province_code": "1667",
+        "city_code": "166719"
+    },
+    {
+        "id": "160209002",
+        "name": "Amontay",
+        "region_code": "16",
+        "province_code": "1602",
+        "city_code": "160209"
+    },
+    {
+        "id": "013315002",
+        "name": "Amontoc",
+        "region_code": "01",
+        "province_code": "0133",
+        "city_code": "013315"
+    },
+    {
+        "id": "118202016",
+        "name": "Amor Cruz",
+        "region_code": "11",
+        "province_code": "1182",
+        "city_code": "118202"
+    },
+    {
+        "id": "063021002",
+        "name": "Amorogtong",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063021"
+    },
+    {
+        "id": "104307001",
+        "name": "Amoros",
+        "region_code": "10",
+        "province_code": "1043",
+        "city_code": "104307"
+    },
+    {
+        "id": "054101002",
+        "name": "Amoroy",
+        "region_code": "05",
+        "province_code": "0541",
+        "city_code": "054101"
+    },
+    {
+        "id": "166717002",
+        "name": "Amoslog",
+        "region_code": "16",
+        "province_code": "1667",
+        "city_code": "166717"
+    },
+    {
+        "id": "045606002",
+        "name": "Amot",
+        "region_code": "04",
+        "province_code": "0456",
+        "city_code": "045606"
+    },
+    {
+        "id": "153630001",
+        "name": "Amoyong",
+        "region_code": "15",
+        "province_code": "1536",
+        "city_code": "153630"
+    },
+    {
+        "id": "025006011",
+        "name": "Ampakling",
+        "region_code": "02",
+        "province_code": "0250",
+        "city_code": "025006"
+    },
+    {
+        "id": "140114001",
+        "name": "Ampalioc",
+        "region_code": "14",
+        "province_code": "1401",
+        "city_code": "140114"
+    },
+    {
+        "id": "012922001",
+        "name": "Ampandula",
+        "region_code": "01",
+        "province_code": "0129",
+        "city_code": "012922"
+    },
+    {
+        "id": "153601001",
+        "name": "Ampao",
+        "region_code": "15",
+        "province_code": "1536",
+        "city_code": "153601"
+    },
+    {
+        "id": "051721002",
+        "name": "Amparado (Pob.)",
+        "region_code": "05",
+        "province_code": "0517",
+        "city_code": "051721"
+    },
+    {
+        "id": "060612002",
+        "name": "Amparo",
+        "region_code": "06",
+        "province_code": "0606",
+        "city_code": "060612"
+    },
+    {
+        "id": "160202006",
+        "name": "Amparo",
+        "region_code": "16",
+        "province_code": "1602",
+        "city_code": "160202"
+    },
+    {
+        "id": "063036002",
+        "name": "Amparo",
+        "region_code": "06",
+        "province_code": "0630",
+        "city_code": "063036"
+    },
+    {
+        "id": "086408002",
+        "name": "Amparo",
+        "region_code": "08",
+        "province_code": "0864",
+        "city_code": "086408"
+    },
+    {
+        "id": "118202017",
+        "name": "Ampawid",
+        "region_code": "11",
+        "province_code": "1182",
+        "city_code": "118202"
+    },
+    {
+        "id": "160202007",
+        "name": "Ampayon",
+        "region_code": "16",
+        "province_code": "1602",
+        "city_code": "160202"
+    },
+    {
+        "id": "104322002",
+        "name": "Ampenican",
+        "region_code": "10",
+        "province_code": "1043",
+        "city_code": "104322"
+    },
+    {
+        "id": "104323002",
+        "name": "Ampianga",
+        "region_code": "10",
+        "province_code": "1043",
+        "city_code": "104323"
+    }
+]
