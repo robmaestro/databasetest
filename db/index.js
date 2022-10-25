@@ -52,4 +52,30 @@ mydb.add = (region_name) => {
     })
 }
 
+mydb.del = (region_id) => {
+    return new Promise((resolve, reject) => {
+        pool.query("DELETE FROM region WHERE region_id = ?", [region_id], (err, results) => {
+            if (err) {
+                return reject(err);
+            }
+            else {
+                return resolve(results);
+            }
+        });
+    })
+}
+
+mydb.change = (region_name, region_id) => {
+    return new Promise((resolve, reject) => {
+        pool.query("UPDATE region SET region_name = ? WHERE region_id = ?", [region_name, region_id], (err, results) => {
+            if (err) {
+                return reject(err);
+            }
+            else {
+                return resolve(results);
+            }
+        });
+    })
+}
+
 module.exports = mydb;

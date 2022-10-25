@@ -7,49 +7,31 @@ let address = require('../public/address')
 // app.get('/:region_id/province/:province_id/municipality/:municipality_id/barangay/:barangay_id?', findBarangay)
 // app.get('/:region_id/province/:province_id/municipality/:municipality_id?', findMunicipality)
 // app.get('/:region_id/province/:province_id?', findProvince)
-app.post('/', insertRegion)
 // app.get('/:region_id', findRegion)
+app.put('/', editRegion)
+app.post('/', insertRegion)
+app.delete('/', delRegion)
 app.get('/', getRegion)
 
 async function getRegion(req, res, next) {
     try {
-        res.set('Access-Control-Allow-Origin', '*');
         let results = await db.all();
-        // res.json(results);
-        res.json({results: results})
+        res.json({ results: results })
     }
     catch (e) {
         console.log(e);
-    }
-}
-
-async function findRegion(req, res, next) {
-    try {
-        let results = await db.one(req.params.region_id)
-
-        if(results.length === 0){
-            res.sendStatus(404)
-        }
-        else{
-            res.send(results);
-        }
-    }
-    catch (e) {
-        console.log(e);
-        res.sendStatus(500);
     }
 }
 
 async function insertRegion(req, res, next) {
     try {
-        res.set('Access-Control-Allow-Origin', '*');
         let results = await db.add(req.body.region_name)
-        
-        if(results.affectedRows){
+
+        if (results.affectedRows) {
             let newResults = await db.all()
-            res.send({results: newResults});
+            res.send({ results: newResults });
         }
-        else{
+        else {
             res.sendStatus(404)
         }
     }
@@ -61,13 +43,13 @@ async function insertRegion(req, res, next) {
 
 async function delRegion(req, res, next) {
     try {
-        let results = await db.one(req.params.region_id)
-
-        if(results.length === 0){
-            res.sendStatus(404)
+        let results = await db.del(req.body.region_id)
+        if (results.affectedRows) {
+            let newResults = await db.all()
+            res.send({ results: newResults });
         }
-        else{
-            res.send(results);
+        else {
+            res.sendStatus(404)
         }
     }
     catch (e) {
@@ -75,6 +57,40 @@ async function delRegion(req, res, next) {
         res.sendStatus(500);
     }
 }
+
+async function editRegion(req, res, next) {
+    try {
+        let results = await db.change(req.body.region_name, req.body.region_id)
+        if (results.affectedRows) {
+            let newResults = await db.all()
+            res.send({ results: newResults });
+        }
+        else {
+            res.sendStatus(404)
+        }
+    }
+    catch (e) {
+        console.log(e);
+        res.sendStatus(500);
+    }
+}
+
+// async function findRegion(req, res, next) {
+//     try {
+//         let results = await db.one(req.params.region_id)
+
+//         if(results.length === 0){
+//             res.sendStatus(404)
+//         }
+//         else{
+//             res.send(results);
+//         }
+//     }
+//     catch (e) {
+//         console.log(e);
+//         res.sendStatus(500);
+//     }
+// }
 
 module.exports = app
 
